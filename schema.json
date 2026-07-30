@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/koyamasann/ai-price-history/blob/main/schema.json",
+  "title": "AICostIndex AI price history row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "model",
+    "date",
+    "field",
+    "usd",
+    "jpy",
+    "source"
+  ],
+  "properties": {
+    "model": {
+      "type": "string",
+      "minLength": 1
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "field": {
+      "type": "string",
+      "enum": [
+        "input",
+        "output",
+        "cached_input"
+      ]
+    },
+    "usd": {
+      "type": "number",
+      "minimum": 0
+    },
+    "jpy": {
+      "type": "number",
+      "minimum": 0
+    },
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    }
+  }
+}
