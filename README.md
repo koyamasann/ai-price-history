@@ -1,5 +1,7 @@
 # AI Price History
 
+[日本語版はこちら](README.ja.md)
+
 Daily, machine-readable AI model price history published by
 [AICostIndex](https://aicostindex.com).
 
@@ -115,6 +117,16 @@ Every push validates:
 
 Existing rows are not rewritten by the daily job. Corrections require an
 explicit, reviewed data commit.
+
+## Disclaimer
+
+This dataset is independently collected and maintained by AICostIndex.
+Prices are gathered from official vendor pricing pages and verified on
+the dates shown, but errors and omissions are possible. The data is
+provided "as is", without warranty of any kind. Always confirm current
+prices on the vendor's official page before making decisions.
+
+Free to use under CC BY 4.0 — attribution with a link is appreciated.
 
 ## License
 

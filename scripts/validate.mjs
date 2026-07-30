@@ -131,6 +131,7 @@ if (lines.length > 0 && state.verified_date !== maxDate) {
 
 for (const relativePath of [
   "README.md",
+  "README.ja.md",
   "LICENSE",
   "schema.json",
   "data/ai-prices.csv",
