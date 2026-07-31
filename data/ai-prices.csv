@@ -109624,3 +109624,77 @@ Claude 4.5 Haiku,2026-07-30,cached_input,0.1,16.353086,https://platform.claude.c
 Claude 4 Sonnet,2026-07-30,input,3,490.592574,https://platform.claude.com/docs/en/about-claude/pricing
 Claude 4 Sonnet,2026-07-30,output,15,2452.96287,https://platform.claude.com/docs/en/about-claude/pricing
 Claude 4 Sonnet,2026-07-30,cached_input,0.3,49.059257,https://platform.claude.com/docs/en/about-claude/pricing
+GPT-5.2 Codex,2026-07-31,input,1.75,286.179001,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Codex,2026-07-31,output,14,2289.432012,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Codex,2026-07-31,cached_input,0.175,28.6179,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-07-31,input,1.75,286.179001,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-07-31,output,14,2289.432012,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-07-31,cached_input,0.175,28.6179,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-07-31,input,1.25,204.413572,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-07-31,output,10,1635.30858,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-07-31,cached_input,0.125,20.441357,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-07-31,input,1.25,204.413572,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-07-31,output,10,1635.30858,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-07-31,cached_input,0.125,20.441357,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-07-31,input,1.25,204.413572,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-07-31,output,10,1635.30858,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-07-31,cached_input,0.125,20.441357,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-07-31,input,1.75,286.179001,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-07-31,output,14,2289.432012,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-07-31,cached_input,0.175,28.6179,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-07-31,input,1.25,204.413572,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-07-31,output,10,1635.30858,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-07-31,cached_input,0.125,20.441357,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-07-31,input,1.25,204.413572,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-07-31,output,10,1635.30858,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-07-31,cached_input,0.125,20.441357,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-07-31,input,0.25,40.882714,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-07-31,output,2,327.061716,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-07-31,cached_input,0.025,4.088271,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Pro,2026-07-31,input,15,2452.96287,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Pro,2026-07-31,output,120,19623.70296,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Chat Latest,2026-07-31,input,1.25,204.413572,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Chat Latest,2026-07-31,output,10,1635.30858,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Chat Latest,2026-07-31,cached_input,0.125,20.441357,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3,2026-07-31,input,2,327.061716,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3,2026-07-31,output,8,1308.246864,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3,2026-07-31,cached_input,0.5,81.765429,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-07-31,input,0.25,40.882714,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-07-31,output,2,327.061716,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-07-31,cached_input,0.025,4.088271,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-07-31,input,0.05,8.176543,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-07-31,output,0.4,65.412343,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-07-31,cached_input,0.005,0.817654,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-07-31,input,1.1,179.883944,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-07-31,output,4.4,719.535775,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-07-31,cached_input,0.55,89.941972,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-07-31,input,1.1,179.883944,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-07-31,output,4.4,719.535775,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-07-31,cached_input,0.275,44.970986,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-07-31,input,1.1,179.883944,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-07-31,output,4.4,719.535775,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-07-31,cached_input,0.55,89.941972,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1,2026-07-31,input,15,2452.96287,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1,2026-07-31,output,60,9811.85148,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1,2026-07-31,cached_input,7.5,1226.481435,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+Claude Opus 4.5,2026-07-31,input,5,817.65429,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-07-31,output,25,4088.27145,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-07-31,cached_input,0.5,81.765429,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-07-31,input,5,817.65429,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-07-31,output,25,4088.27145,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-07-31,cached_input,0.5,81.765429,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-07-31,input,1,163.530858,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-07-31,output,5,817.65429,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-07-31,cached_input,0.1,16.353086,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Sonnet,2026-07-31,input,3,490.592574,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Sonnet,2026-07-31,output,15,2452.96287,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Sonnet,2026-07-31,cached_input,0.3,49.059257,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-07-31,input,3,490.592574,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-07-31,output,15,2452.96287,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-07-31,cached_input,0.3,49.059257,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-07-31,input,3,490.592574,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-07-31,output,15,2452.96287,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-07-31,cached_input,0.3,49.059257,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 3.5 Haiku,2026-07-31,input,0.8,130.824686,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 3.5 Haiku,2026-07-31,output,4,654.123432,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 3.5 Haiku,2026-07-31,cached_input,0.08,13.082469,https://platform.claude.com/docs/en/about-claude/pricing
