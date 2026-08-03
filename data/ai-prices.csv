@@ -111374,3 +111374,1397 @@ Claude 4.5 Haiku,2026-08-02,output,5,801.2,https://platform.claude.com/docs/en/a
 Claude 4.5 Haiku,2026-08-02,cached_input,0.1,16.024,https://platform.claude.com/docs/en/about-claude/pricing
 Gemini 2.5 Flash-Lite,2026-08-02,input,0.1,16.024,https://ai.google.dev/gemini-api/docs/pricing
 Gemini 2.5 Flash-Lite,2026-08-02,output,0.4,64.096,https://ai.google.dev/gemini-api/docs/pricing
+GPT-4o,2026-08-03,input,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o,2026-08-03,cached_input,1.316795675,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-3.5 Turbo,2026-08-03,input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-3.5 Turbo,2026-08-03,output,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1,2026-08-03,output,8,1264.123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1,2026-08-03,cached_input,0.5267182699999999,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Chat Latest,2026-08-03,input,1.75,276.52709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Chat Latest,2026-08-03,output,14,2212.216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Chat Latest,2026-08-03,cached_input,0.1843513945,27.652709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1 Nano,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1 Nano,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1 Nano,2026-08-03,cached_input,0.026335913499999995,3.9503870249999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o Mini,2026-08-03,input,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o Mini,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4o Mini,2026-08-03,cached_input,0.07900774049999999,11.851161074999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1,2026-08-03,input,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1,2026-08-03,output,30,4740.46443,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1 Mini,2026-08-03,input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1 Mini,2026-08-03,output,1.5999999999999999,252.82476959999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-4.1 Mini,2026-08-03,cached_input,0.10534365399999998,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2,2026-08-03,input,1.75,276.52709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2,2026-08-03,output,14,2212.216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2,2026-08-03,cached_input,0.1843513945,27.652709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Chat Latest,2026-08-03,input,1.75,276.52709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Chat Latest,2026-08-03,output,14,2212.216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Chat Latest,2026-08-03,cached_input,0.1843513945,27.652709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-3.5 Turbo,2026-08-03,input,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-3.5 Turbo,2026-08-03,output,4,632.061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Chat Latest,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Chat Latest,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Chat Latest,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-3.5 Turbo,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-3.5 Turbo,2026-08-03,output,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Mini,2026-08-03,input,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Mini,2026-08-03,output,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Mini,2026-08-03,cached_input,0.026335913499999995,3.9503870249999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Codex,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Codex,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Codex,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4,2026-08-03,input,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4,2026-08-03,cached_input,0.26335913499999997,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Nano,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Nano,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Nano,2026-08-03,cached_input,0.0052671827,0.790077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Nano,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Nano,2026-08-03,output,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Nano,2026-08-03,cached_input,0.0210687308,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1-pro,2026-08-03,input,150,23702.32215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1-pro,2026-08-03,output,600,94809.2886,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,input,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,output,120,18961.85772,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Chat Latest,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Chat Latest,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Chat Latest,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,input,21,3318.325101,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,output,168,26546.600808,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,cached_input,0.0052671827,0.790077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Pro,2026-08-03,input,30,4740.46443,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Pro,2026-08-03,output,180,28442.78658,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Pro,2026-08-03,cached_input,3.1603096199999996,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-03,output,30,4740.46443,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-03,cached_input,0.5267182699999999,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.5,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.5,2026-08-03,output,30,4740.46443,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.5,2026-08-03,cached_input,0.5267182699999999,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-03,input,1.1,173.8170291,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-03,output,4.4,695.2681164,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-03,cached_input,0.2896950485,43.454257275,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-03,output,1.2,189.61857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-03,cached_input,0.0210687308,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3,2026-08-03,output,8,1264.123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3,2026-08-03,cached_input,0.5267182699999999,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-03,input,1.75,276.52709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-03,output,14,2212.216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-03,cached_input,0.1843513945,27.652709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Codex,2026-08-03,input,1.75,276.52709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Codex,2026-08-03,output,14,2212.216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Codex,2026-08-03,cached_input,0.1843513945,27.652709175,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Mini,2026-08-03,input,0.75,118.51161074999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Mini,2026-08-03,output,4.5,711.0696644999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.4 Mini,2026-08-03,cached_input,0.07900774049999999,11.851161074999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.5 Pro,2026-08-03,input,30,4740.46443,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.5 Pro,2026-08-03,output,180,28442.78658,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.5 Pro,2026-08-03,cached_input,3.1603096199999996,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1,2026-08-03,input,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1,2026-08-03,output,60,9480.92886,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1,2026-08-03,cached_input,7.90077405,1185.1161075,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Codex Max,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Codex Max,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.1 Codex Max,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-03,output,12,1896.1857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-03,cached_input,0.21068730799999996,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,input,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,output,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5,2026-08-03,cached_input,0.026335913499999995,3.9503870249999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3-pro,2026-08-03,input,20,3160.30962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3-pro,2026-08-03,output,80,12641.23848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Pro,2026-08-03,input,21,3318.325101,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Pro,2026-08-03,output,168,26546.600808,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3 Mini,2026-08-03,input,1.1,173.8170291,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3 Mini,2026-08-03,output,4.4,695.2681164,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3 Mini,2026-08-03,cached_input,0.579390097,86.90851455,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Pro,2026-08-03,input,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Pro,2026-08-03,output,120,18961.85772,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Codex,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Codex,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Codex,2026-08-03,cached_input,0.13167956749999998,19.751935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-08-03,output,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-08-03,cached_input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.1,2026-08-03,input,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.1,2026-08-03,output,75,11851.161075,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.1,2026-08-03,cached_input,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-08-03,output,25,3950.387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-08-03,cached_input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-08-03,input,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-08-03,cached_input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.7 Sonnet,2026-08-03,input,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.7 Sonnet,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.7 Sonnet,2026-08-03,cached_input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4 Sonnet,2026-08-03,input,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4 Sonnet,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4 Sonnet,2026-08-03,cached_input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.7,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.7,2026-08-03,output,25,3950.387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.7,2026-08-03,cached_input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4,2026-08-03,input,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4,2026-08-03,output,75,11851.161075,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4,2026-08-03,cached_input,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.8,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.8,2026-08-03,output,25,3950.387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.8,2026-08-03,cached_input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-08-03,output,25,3950.387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-08-03,cached_input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3 Haiku,2026-08-03,input,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3 Haiku,2026-08-03,output,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3 Haiku,2026-08-03,cached_input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Fable 5,2026-08-03,input,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Fable 5,2026-08-03,output,50,7900.77405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Fable 5,2026-08-03,cached_input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3 Opus,2026-08-03,input,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3 Opus,2026-08-03,output,75,11851.161075,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3 Opus,2026-08-03,cached_input,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 5,2026-08-03,input,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 5,2026-08-03,output,25,3950.387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 5,2026-08-03,cached_input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-08-03,input,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-08-03,cached_input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,0.28,44.24433468,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V3,2026-08-03,output,0.39999999999999997,63.20619239999999,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V4 Flash,2026-08-03,input,0.14,22.12216734,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V4 Flash,2026-08-03,output,0.28,44.24433468,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V4 Flash,2026-08-03,cached_input,0.0028,0.44244334679999997,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek Coder,2026-08-03,input,0.14,22.12216734,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek Coder,2026-08-03,output,0.28,44.24433468,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V4 Pro,2026-08-03,input,0.435,68.736734235,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V4 Pro,2026-08-03,output,0.87,137.47346847,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V4 Pro,2026-08-03,cached_input,0.0036249999999999998,0.572806118625,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek R1,2026-08-03,input,0.55,86.90851455,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek R1,2026-08-03,output,2.1900000000000004,346.0539033900001,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V3,2026-08-03,input,0.27,42.66417987,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V3,2026-08-03,output,1.1,173.8170291,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek V3,2026-08-03,cached_input,0.07,11.06108367,https://api-docs.deepseek.com/quick_start/pricing
+Gemma 7B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 7B,2026-08-03,output,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,input,0.075,11.851161074999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,output,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,cached_input,0.0375,5.925580537499999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Maverick,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Maverick,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,input,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,cached_input,0.075,11.851161074999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS Safeguard 20B,2026-08-03,input,0.075,11.851161074999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS Safeguard 20B,2026-08-03,output,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS Safeguard 20B,2026-08-03,cached_input,0.037,5.846572796999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Scout,2026-08-03,input,0.11,17.381702909999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Scout,2026-08-03,output,0.33999999999999997,53.72526353999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,input,0.59,93.22913378999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,output,0.7899999999999999,124.83222998999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,output,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,cached_input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 32B,2026-08-03,input,0.29,45.82448949,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 32B,2026-08-03,output,0.59,93.22913378999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,output,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama Guard 4 12B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama Guard 4 12B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Pro,2026-08-03,input,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Pro,2026-08-03,output,15,2370.232215,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Deep Research,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Deep Research,2026-08-03,output,8,1264.123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,output,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Small Chat,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Small Chat,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Medium Chat,2026-08-03,input,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Medium Chat,2026-08-03,output,1.7999999999999998,284.42786579999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 70B Chat,2026-08-03,input,0.7,110.6108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 70B Chat,2026-08-03,output,2.8,442.4433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 70B Chat,2026-08-03,input,0.7,110.6108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 70B Chat,2026-08-03,output,2.8,442.4433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar,2026-08-03,output,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B Instruct,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B Instruct,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 34B Instruct,2026-08-03,input,0.35,55.30541835,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 34B Instruct,2026-08-03,output,1.4,221.2216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 7B Chat,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 7B Chat,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mixtral 8x7B,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mixtral 8x7B,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Reasoning,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Reasoning,2026-08-03,output,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Reasoning Pro,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Sonar Reasoning Pro,2026-08-03,output,8,1264.123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 70B Instruct,2026-08-03,input,0.7,110.6108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 70B Instruct,2026-08-03,output,2.8,442.4433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 405B,2026-08-03,input,1,158.015481,https://nebius.com/prices-ai-studio
+Llama 3.1 405B,2026-08-03,output,3,474.04644299999995,https://nebius.com/prices-ai-studio
+DeepSeek V3,2026-08-03,input,0.5,79.0077405,https://nebius.com/prices-ai-studio
+DeepSeek V3,2026-08-03,output,1.5,237.02322149999998,https://nebius.com/prices-ai-studio
+DeepSeek R1,2026-08-03,input,0.7999999999999999,126.41238479999998,https://nebius.com/prices-ai-studio
+DeepSeek R1,2026-08-03,output,2.4,379.23715439999995,https://nebius.com/prices-ai-studio
+Qwen 2.5 72B,2026-08-03,input,0.13,20.54201253,https://nebius.com/prices-ai-studio
+Qwen 2.5 72B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://nebius.com/prices-ai-studio
+Qwen 3 32B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://nebius.com/prices-ai-studio
+Qwen 3 32B,2026-08-03,output,0.3,47.404644299999994,https://nebius.com/prices-ai-studio
+Qwen 2.5 7B,2026-08-03,input,0.01,1.58015481,https://nebius.com/prices-ai-studio
+Qwen 2.5 7B,2026-08-03,output,0.03,4.740464429999999,https://nebius.com/prices-ai-studio
+QwQ 32B,2026-08-03,input,0.15,23.702322149999997,https://nebius.com/prices-ai-studio
+QwQ 32B,2026-08-03,output,0.44999999999999996,71.10696644999999,https://nebius.com/prices-ai-studio
+Llama 3.1 8B,2026-08-03,input,0.02,3.16030962,https://nebius.com/prices-ai-studio
+Llama 3.1 8B,2026-08-03,output,0.06,9.480928859999999,https://nebius.com/prices-ai-studio
+Llama 3.3 Nemotron Super 49B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://nebius.com/prices-ai-studio
+Llama 3.3 Nemotron Super 49B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://nebius.com/prices-ai-studio
+Llama 3.1 Nemotron Ultra 253B,2026-08-03,input,0.6,94.80928859999999,https://nebius.com/prices-ai-studio
+Llama 3.1 Nemotron Ultra 253B,2026-08-03,output,1.7999999999999998,284.42786579999995,https://nebius.com/prices-ai-studio
+Qwen 3 4B,2026-08-03,input,0.08,12.64123848,https://nebius.com/prices-ai-studio
+Qwen 3 4B,2026-08-03,output,0.24,37.923715439999995,https://nebius.com/prices-ai-studio
+Qwen 2.5 32B,2026-08-03,input,0.06,9.480928859999999,https://nebius.com/prices-ai-studio
+Qwen 2.5 32B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://nebius.com/prices-ai-studio
+Qwen 3 30B A3B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://nebius.com/prices-ai-studio
+Qwen 3 30B A3B,2026-08-03,output,0.3,47.404644299999994,https://nebius.com/prices-ai-studio
+Llama 3.3 70B,2026-08-03,input,0.13,20.54201253,https://nebius.com/prices-ai-studio
+Llama 3.3 70B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://nebius.com/prices-ai-studio
+Qwen 3 14B,2026-08-03,input,0.08,12.64123848,https://nebius.com/prices-ai-studio
+Qwen 3 14B,2026-08-03,output,0.24,37.923715439999995,https://nebius.com/prices-ai-studio
+Mistral Nemo,2026-08-03,input,0.04,6.32061924,https://nebius.com/prices-ai-studio
+Mistral Nemo,2026-08-03,output,0.12,18.961857719999998,https://nebius.com/prices-ai-studio
+Llama 3.1 70B,2026-08-03,input,0.13,20.54201253,https://nebius.com/prices-ai-studio
+Llama 3.1 70B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://nebius.com/prices-ai-studio
+Llama Guard 3 8B,2026-08-03,input,0.02,3.16030962,https://nebius.com/prices-ai-studio
+Llama Guard 3 8B,2026-08-03,output,0.06,9.480928859999999,https://nebius.com/prices-ai-studio
+Gemma 3 27B,2026-08-03,input,0.06,9.480928859999999,https://nebius.com/prices-ai-studio
+Gemma 3 27B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://nebius.com/prices-ai-studio
+Qwen 3 235B A22B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://nebius.com/prices-ai-studio
+Qwen 3 235B A22B,2026-08-03,output,0.6,94.80928859999999,https://nebius.com/prices-ai-studio
+DeepSeek R1,2026-08-03,input,0.25,39.50387025,https://nebius.com/prices-ai-studio
+DeepSeek R1,2026-08-03,output,0.75,118.51161074999999,https://nebius.com/prices-ai-studio
+Qwen 2 VL 7B,2026-08-03,input,0.02,3.16030962,https://nebius.com/prices-ai-studio
+Qwen 2 VL 7B,2026-08-03,output,0.06,9.480928859999999,https://nebius.com/prices-ai-studio
+Qwen 2 VL 72B,2026-08-03,input,0.13,20.54201253,https://nebius.com/prices-ai-studio
+Qwen 2 VL 72B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://nebius.com/prices-ai-studio
+Grok 3 Mini,2026-08-03,input,0.6,94.80928859999999,https://x.ai/api#pricing
+Grok 3 Mini,2026-08-03,output,4,632.061924,https://x.ai/api#pricing
+Grok 3 Mini,2026-08-03,cached_input,0.15,23.702322149999997,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,output,0.5,79.0077405,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://x.ai/api#pricing
+Grok 2 Vision,2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 2 Vision,2026-08-03,output,10,1580.15481,https://x.ai/api#pricing
+Grok 3 Fast,2026-08-03,input,5,790.077405,https://x.ai/api#pricing
+Grok 3 Fast,2026-08-03,output,25,3950.387025,https://x.ai/api#pricing
+Grok 3 Fast,2026-08-03,cached_input,1.25,197.51935125,https://x.ai/api#pricing
+Grok 3,2026-08-03,input,3,474.04644299999995,https://x.ai/api#pricing
+Grok 3,2026-08-03,output,15,2370.232215,https://x.ai/api#pricing
+Grok 3,2026-08-03,cached_input,0.75,118.51161074999999,https://x.ai/api#pricing
+Grok 3 Mini,2026-08-03,input,0.3,47.404644299999994,https://x.ai/api#pricing
+Grok 3 Mini,2026-08-03,output,0.5,79.0077405,https://x.ai/api#pricing
+Grok 3 Mini,2026-08-03,cached_input,0.075,11.851161074999998,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,input,3,474.04644299999995,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,output,15,2370.232215,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,cached_input,0.75,118.51161074999999,https://x.ai/api#pricing
+Grok 4,2026-08-03,input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4,2026-08-03,output,0.5,79.0077405,https://x.ai/api#pricing
+Grok 4,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://x.ai/api#pricing
+Grok 2,2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 2,2026-08-03,output,10,1580.15481,https://x.ai/api#pricing
+Grok 4,2026-08-03,input,3,474.04644299999995,https://x.ai/api#pricing
+Grok 4,2026-08-03,output,15,2370.232215,https://x.ai/api#pricing
+Grok 4.1 Fast Reasoning,2026-08-03,input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4.1 Fast Reasoning,2026-08-03,output,0.5,79.0077405,https://x.ai/api#pricing
+Grok 4.1 Fast Reasoning,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://x.ai/api#pricing
+Grok 4.5,2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 4.5,2026-08-03,output,6,948.0928859999999,https://x.ai/api#pricing
+Grok 4.5,2026-08-03,cached_input,0.5,79.0077405,https://x.ai/api#pricing
+Grok 4.20 (0309 Reasoning),2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 4.20 (0309 Reasoning),2026-08-03,output,6,948.0928859999999,https://x.ai/api#pricing
+Grok 4.20 (0309 Reasoning),2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4.20 Beta Non-Reasoning,2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 4.20 Beta Non-Reasoning,2026-08-03,output,6,948.0928859999999,https://x.ai/api#pricing
+Grok 4.20 Beta Non-Reasoning,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok Code Fast 1,2026-08-03,input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok Code Fast 1,2026-08-03,output,1.5,237.02322149999998,https://x.ai/api#pricing
+Grok Code Fast 1,2026-08-03,cached_input,0.02,3.16030962,https://x.ai/api#pricing
+Grok Build 0.1,2026-08-03,input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok Build 0.1,2026-08-03,output,1.5,237.02322149999998,https://x.ai/api#pricing
+Grok Build 0.1,2026-08-03,cached_input,0.02,3.16030962,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,input,1.25,197.51935125,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,output,2.5,395.0387025,https://x.ai/api#pricing
+Grok 4.3,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4.20 Beta,2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 4.20 Beta,2026-08-03,output,6,948.0928859999999,https://x.ai/api#pricing
+Grok 4.20 Beta,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4.20 Multi-Agent Beta,2026-08-03,input,2,316.030962,https://x.ai/api#pricing
+Grok 4.20 Multi-Agent Beta,2026-08-03,output,6,948.0928859999999,https://x.ai/api#pricing
+Grok 4.20 Multi-Agent Beta,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok Vision,2026-08-03,input,5,790.077405,https://x.ai/api#pricing
+Grok Vision,2026-08-03,output,15,2370.232215,https://x.ai/api#pricing
+Grok Beta,2026-08-03,input,5,790.077405,https://x.ai/api#pricing
+Grok Beta,2026-08-03,output,15,2370.232215,https://x.ai/api#pricing
+Grok 4.1 Fast Non-Reasoning,2026-08-03,input,0.19999999999999998,31.603096199999996,https://x.ai/api#pricing
+Grok 4.1 Fast Non-Reasoning,2026-08-03,output,0.5,79.0077405,https://x.ai/api#pricing
+Grok 4.1 Fast Non-Reasoning,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://x.ai/api#pricing
+DeepSeek V3,2026-08-03,input,0.27,42.66417987,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,cached_input,0.135,21.332089935,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder 480B A35B,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder 480B A35B,2026-08-03,output,1.3,205.4201253,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2,2026-08-03,input,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2,2026-08-03,output,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+KAT Coder Pro,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+KAT Coder Pro,2026-08-03,output,1.2,189.61857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+KAT Coder Pro,2026-08-03,cached_input,0.06,9.480928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,0.26899999999999996,42.50616438899999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,cached_input,0.13449999999999998,21.253082194499996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.6,2026-08-03,input,0.55,86.90851455,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.6,2026-08-03,output,2.2,347.6340582,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.6,2026-08-03,cached_input,0.10999999999999999,17.381702909999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M2.1,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M2.1,2026-08-03,output,1.2,189.61857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M2.1,2026-08-03,cached_input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Next 80B A3B,2026-08-03,input,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Next 80B A3B,2026-08-03,output,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,0.41,64.78634720999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.7,2026-08-03,input,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.7,2026-08-03,output,2.2,347.6340582,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.7,2026-08-03,cached_input,0.10999999999999999,17.381702909999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+R1V4 Lite,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+R1V4 Lite,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+AutoGLM Phone 9B,2026-08-03,input,0.035,5.530541835,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+AutoGLM Phone 9B,2026-08-03,output,0.13799999999999998,21.806136377999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 30B A3B,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 30B A3B,2026-08-03,output,0.27,42.66417987,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 235B A22B,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 235B A22B,2026-08-03,output,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.6,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.6,2026-08-03,output,0.8999999999999999,142.21393289999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.6,2026-08-03,cached_input,0.05499999999999999,8.690851454999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek OCR,2026-08-03,input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek OCR,2026-08-03,output,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M2,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M2,2026-08-03,output,1.2,189.61857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M2,2026-08-03,cached_input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Thinking,2026-08-03,input,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Thinking,2026-08-03,output,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MIMO V2 Flash,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MIMO V2 Flash,2026-08-03,output,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MIMO V2 Flash,2026-08-03,cached_input,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Max,2026-08-03,input,2.1100000000000003,333.41266491000005,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Max,2026-08-03,output,8.450000000000001,1335.23081445,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 235B A22B,2026-08-03,input,0.98,154.85517138,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 235B A22B,2026-08-03,output,3.95,624.16114995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PaddleOCR VL,2026-08-03,input,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PaddleOCR VL,2026-08-03,output,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,output,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.7,110.6108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 30B A3B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 30B A3B,2026-08-03,output,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 32B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 32B,2026-08-03,output,0.44999999999999996,71.10696644999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 30B A3B,2026-08-03,input,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 30B A3B,2026-08-03,output,0.44999999999999996,71.10696644999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Omni 30B A3B,2026-08-03,input,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Omni 30B A3B,2026-08-03,output,0.9700000000000001,153.27501657000002,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Scout,2026-08-03,input,0.18,28.442786579999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Scout,2026-08-03,output,0.59,93.22913378999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5 Air,2026-08-03,input,0.13,20.54201253,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5 Air,2026-08-03,output,0.85,134.31315884999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 VL 28B A3B,2026-08-03,input,0.14,22.12216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 VL 28B A3B,2026-08-03,output,0.56,88.48866936,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Lunaris 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Lunaris 8B,2026-08-03,output,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,cached_input,0.35,55.30541835,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+WizardLM 2 8x22B,2026-08-03,input,0.62,97.96959822,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+WizardLM 2 8x22B,2026-08-03,output,0.62,97.96959822,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Nemo,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Nemo,2026-08-03,output,0.16999999999999998,26.862631769999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,input,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,output,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,input,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,0.58,91.64897898,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,1.3,205.4201253,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 27B,2026-08-03,input,0.119,18.803842238999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 27B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Stheno 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Stheno 8B,2026-08-03,output,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 21B A3B,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 21B A3B,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5,2026-08-03,input,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5,2026-08-03,output,2.2,347.6340582,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5,2026-08-03,cached_input,0.10999999999999999,17.381702909999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 72B,2026-08-03,input,0.7999999999999999,126.41238479999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 72B,2026-08-03,output,0.7999999999999999,126.41238479999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 12B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 12B,2026-08-03,output,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 VL 28B A3B Thinking,2026-08-03,input,0.39,61.62603759,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 VL 28B A3B Thinking,2026-08-03,output,0.39,61.62603759,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5,2026-08-03,output,1.7999999999999998,284.42786579999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 300B A47B,2026-08-03,input,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 300B A47B,2026-08-03,output,1.1,173.8170291,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 21B A3B Thinking,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 21B A3B Thinking,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen MT Plus,2026-08-03,input,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen MT Plus,2026-08-03,output,0.75,118.51161074999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.7999999999999999,126.41238479999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,0.7999999999999999,126.41238479999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 30B A3B,2026-08-03,output,0.7,110.6108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.06,9.480928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,0.7999999999999999,126.41238479999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,input,0.14,22.12216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,output,0.14,22.12216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 VL 424B A47B,2026-08-03,input,0.42,66.36650202,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+ERNIE 4.5 VL 424B A47B,2026-08-03,output,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,input,0.135,21.332089935,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,input,0.5700000000000001,90.06882417000001,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,output,2.3,363.43560629999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M1 80K,2026-08-03,input,0.55,86.90851455,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MiniMax M1 80K,2026-08-03,output,2.2,347.6340582,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Euryale 70B,2026-08-03,input,1.48,233.86291187999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Euryale 70B,2026-08-03,output,1.48,233.86291187999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 8B,2026-08-03,input,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 VL 8B,2026-08-03,output,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,output,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,1.12,176.97733872,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Baichuan M2 32B,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Baichuan M2 32B,2026-08-03,output,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek Prover V2 671B,2026-08-03,input,0.7,110.6108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek Prover V2 671B,2026-08-03,output,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 72B,2026-08-03,input,0.38,60.04588278,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 72B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Maverick,2026-08-03,input,0.27,42.66417987,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Maverick,2026-08-03,output,0.85,134.31315884999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MythoMax L2 13B,2026-08-03,input,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MythoMax L2 13B,2026-08-03,output,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 70B,2026-08-03,input,0.51,80.58789531,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 70B,2026-08-03,output,0.74,116.93145593999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+BGE M3,2026-08-03,input,0.01,1.58015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+BGE M3,2026-08-03,output,0.01,1.58015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 4B,2026-08-03,input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 4B,2026-08-03,output,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.2 3B,2026-08-03,input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.2 3B,2026-08-03,output,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+BGE Reranker V2 M3,2026-08-03,input,0.01,1.58015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+BGE Reranker V2 M3,2026-08-03,output,0.01,1.58015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 7B,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 7B,2026-08-03,output,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 8B,2026-08-03,input,0.035,5.530541835,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 8B,2026-08-03,output,0.13799999999999998,21.806136377999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Reranker 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Reranker 8B,2026-08-03,output,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.5 Flash-Lite,2026-08-03,input,0.09999999999999999,15.801548099999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash-Lite,2026-08-03,output,0.39999999999999997,63.20619239999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash-Lite,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.0 Flash-Lite,2026-08-03,input,0.075,11.851161074999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.0 Flash-Lite,2026-08-03,output,0.3,47.404644299999994,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.0 Flash-Lite,2026-08-03,cached_input,0.01875,2.9627902687499996,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.5 Flash,2026-08-03,input,1.5,237.02322149999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.5 Flash,2026-08-03,output,9,1422.1393289999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.5 Flash,2026-08-03,cached_input,0.15,23.702322149999997,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.0 Flash,2026-08-03,input,0.09999999999999999,15.801548099999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.0 Flash,2026-08-03,output,0.39999999999999997,63.20619239999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.0 Flash,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,input,0.3,47.404644299999994,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,output,2.5,395.0387025,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,cached_input,0.03,4.740464429999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.6 Flash,2026-08-03,input,1.5,237.02322149999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.6 Flash,2026-08-03,output,7.5,1185.1161075,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.6 Flash,2026-08-03,cached_input,0.15,23.702322149999997,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash-Lite Latest,2026-08-03,input,0.09999999999999999,15.801548099999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash-Lite Latest,2026-08-03,output,0.39999999999999997,63.20619239999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash-Lite Latest,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash Latest,2026-08-03,input,0.3,47.404644299999994,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash Latest,2026-08-03,output,2.5,395.0387025,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash Latest,2026-08-03,cached_input,0.075,11.851161074999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash-Lite,2026-08-03,cached_input,0.01,1.58015481,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro Preview,2026-08-03,input,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro Preview,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro Preview,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Pro,2026-08-03,input,1.25,197.51935125,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Pro,2026-08-03,output,10,1580.15481,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Pro,2026-08-03,cached_input,0.125,19.751935125,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Pro Preview,2026-08-03,input,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Pro Preview,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Pro Preview,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,output,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,cached_input,0.075,11.851161074999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro,2026-08-03,input,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Flash Preview,2026-08-03,input,0.5,79.0077405,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Flash Preview,2026-08-03,output,3,474.04644299999995,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Flash Preview,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash-Lite,2026-08-03,input,0.25,39.50387025,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash-Lite,2026-08-03,output,1.5,237.02322149999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash-Lite,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro Image Preview,2026-08-03,input,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Pro Image Preview,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash Image Preview,2026-08-03,input,0.25,39.50387025,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash Image Preview,2026-08-03,output,1.5,237.02322149999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.5 Flash-Lite,2026-08-03,input,0.3,47.404644299999994,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.5 Flash-Lite,2026-08-03,output,2.5,395.0387025,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.5 Flash-Lite,2026-08-03,cached_input,0.03,4.740464429999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash-Lite Preview,2026-08-03,input,0.25,39.50387025,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash-Lite Preview,2026-08-03,output,1.5,237.02322149999998,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3.1 Flash-Lite Preview,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.20 Beta Non-Reasoning,2026-08-03,input,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.20 Beta Non-Reasoning,2026-08-03,output,6,948.0928859999999,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.20 Beta Non-Reasoning,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Pro Latest,2026-08-03,input,1.25,197.51935125,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Pro Latest,2026-08-03,output,10,1580.15481,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Pro Latest,2026-08-03,cached_input,0.125,19.751935125,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Flash Preview,2026-08-03,input,0.75,118.51161074999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 3 Flash Preview,2026-08-03,output,4.5,711.0696644999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash Latest,2026-08-03,cached_input,0.03,4.740464429999999,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.3,2026-08-03,input,0.19999999999999998,31.603096199999996,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.3,2026-08-03,output,0.5,79.0077405,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.3,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://ai.google.dev/gemini-api/docs/pricing
+Gemma 2 9B,2026-08-03,input,0.35,55.30541835,https://ai.google.dev/gemini-api/docs/pricing
+Gemma 2 9B,2026-08-03,output,1.0499999999999998,165.91625504999996,https://ai.google.dev/gemini-api/docs/pricing
+Gemma 2 27B,2026-08-03,input,0.35,55.30541835,https://ai.google.dev/gemini-api/docs/pricing
+Gemma 2 27B,2026-08-03,output,1.0499999999999998,165.91625504999996,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.20 Beta,2026-08-03,input,2,316.030962,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.20 Beta,2026-08-03,output,6,948.0928859999999,https://ai.google.dev/gemini-api/docs/pricing
+Grok 4.20 Beta,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://ai.google.dev/gemini-api/docs/pricing
+Gemini Flash-Lite Latest,2026-08-03,cached_input,0.01,1.58015481,https://ai.google.dev/gemini-api/docs/pricing
+Qwen 3 Coder Next,2026-08-03,input,0.6,94.80928859999999,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-03,output,1.44,227.54229263999997,https://aws.amazon.com/bedrock/pricing/
+GLM 5,2026-08-03,input,1,158.015481,https://aws.amazon.com/bedrock/pricing/
+GLM 5,2026-08-03,output,3.1999999999999997,505.64953919999994,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-03,input,0.73,115.35130113,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-03,output,3.03,478.7869074299999,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-03,input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-03,output,1.2,189.61857719999998,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-03,input,0.71,112.19099150999999,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-03,output,2.94,464.56551413999995,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-03,input,0.6,94.80928859999999,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-03,output,2.5,395.0387025,https://aws.amazon.com/bedrock/pricing/
+Llama 2 70B Chat,2026-08-03,input,1.95,308.13018795,https://aws.amazon.com/bedrock/pricing/
+Llama 2 70B Chat,2026-08-03,output,2.56,404.51963136,https://aws.amazon.com/bedrock/pricing/
+Llama 2 13B Chat,2026-08-03,input,0.75,118.51161074999999,https://aws.amazon.com/bedrock/pricing/
+Llama 2 13B Chat,2026-08-03,output,1,158.015481,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-03,input,0.78,123.25207518,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-03,output,1.8599999999999999,293.90879465999996,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.8,2026-08-03,input,5,790.077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.8,2026-08-03,output,25,3950.387025,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.8,2026-08-03,cached_input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.6,2026-08-03,input,5,790.077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.6,2026-08-03,output,25,3950.387025,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.6,2026-08-03,cached_input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.7,2026-08-03,input,5,790.077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.7,2026-08-03,output,25,3950.387025,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.7,2026-08-03,cached_input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 5,2026-08-03,input,2.2,347.6340582,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 5,2026-08-03,output,11,1738.170291,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 5,2026-08-03,cached_input,0.21999999999999997,34.763405819999996,https://aws.amazon.com/bedrock/pricing/
+Claude Fable 5,2026-08-03,input,10,1580.15481,https://aws.amazon.com/bedrock/pricing/
+Claude Fable 5,2026-08-03,output,50,7900.77405,https://aws.amazon.com/bedrock/pricing/
+Claude Fable 5,2026-08-03,cached_input,1,158.015481,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 4.6,2026-08-03,input,3.3000000000000003,521.4510873,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 4.6,2026-08-03,output,16.5,2607.2554365,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 4.6,2026-08-03,cached_input,0.33,52.145108730000004,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 5,2026-08-03,input,2,316.030962,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 5,2026-08-03,output,10,1580.15481,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 5,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.7,2026-08-03,input,5.5,869.0851455,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.7,2026-08-03,output,27.5,4345.4257275,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.7,2026-08-03,cached_input,0.55,86.90851455,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 5,2026-08-03,input,5,790.077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 5,2026-08-03,output,25,3950.387025,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 5,2026-08-03,cached_input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.8,2026-08-03,input,5.5,869.0851455,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.8,2026-08-03,output,27.5,4345.4257275,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.8,2026-08-03,cached_input,0.55,86.90851455,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 4.6,2026-08-03,input,3,474.04644299999995,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 4.6,2026-08-03,output,15,2370.232215,https://aws.amazon.com/bedrock/pricing/
+Claude Sonnet 4.6,2026-08-03,cached_input,0.3,47.404644299999994,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 5,2026-08-03,input,5.5,869.0851455,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 5,2026-08-03,output,27.5,4345.4257275,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 5,2026-08-03,cached_input,0.55,86.90851455,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.6,2026-08-03,input,5.5,869.0851455,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.6,2026-08-03,output,27.5,4345.4257275,https://aws.amazon.com/bedrock/pricing/
+Claude Opus 4.6,2026-08-03,cached_input,0.55,86.90851455,https://aws.amazon.com/bedrock/pricing/
+GPT-OSS Safeguard 120B,2026-08-03,input,0.15,23.702322149999997,https://aws.amazon.com/bedrock/pricing/
+GPT-OSS Safeguard 120B,2026-08-03,output,0.6,94.80928859999999,https://aws.amazon.com/bedrock/pricing/
+Gemma 3 27B,2026-08-03,input,0.22999999999999998,36.34356063,https://aws.amazon.com/bedrock/pricing/
+Gemma 3 27B,2026-08-03,output,0.38,60.04588278,https://aws.amazon.com/bedrock/pricing/
+Devstral,2026-08-03,input,0.39999999999999997,63.20619239999999,https://aws.amazon.com/bedrock/pricing/
+Devstral,2026-08-03,output,2,316.030962,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Next 80B A3B,2026-08-03,input,0.15,23.702322149999997,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Next 80B A3B,2026-08-03,output,1.2,189.61857719999998,https://aws.amazon.com/bedrock/pricing/
+Ministral 3 8B,2026-08-03,input,0.15,23.702322149999997,https://aws.amazon.com/bedrock/pricing/
+Ministral 3 8B,2026-08-03,output,0.15,23.702322149999997,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 VL 235B A22B,2026-08-03,input,0.53,83.74820493,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 VL 235B A22B,2026-08-03,output,2.66,420.32117946,https://aws.amazon.com/bedrock/pricing/
+Gemma 3 4B,2026-08-03,input,0.04,6.32061924,https://aws.amazon.com/bedrock/pricing/
+Gemma 3 4B,2026-08-03,output,0.08,12.64123848,https://aws.amazon.com/bedrock/pricing/
+GPT-OSS Safeguard 20B,2026-08-03,input,0.07,11.06108367,https://aws.amazon.com/bedrock/pricing/
+GPT-OSS Safeguard 20B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://aws.amazon.com/bedrock/pricing/
+Voxtral Small 24B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://aws.amazon.com/bedrock/pricing/
+Voxtral Small 24B,2026-08-03,output,0.3,47.404644299999994,https://aws.amazon.com/bedrock/pricing/
+NVIDIA Nemotron Nano 9B v2,2026-08-03,input,0.06,9.480928859999999,https://aws.amazon.com/bedrock/pricing/
+NVIDIA Nemotron Nano 9B v2,2026-08-03,output,0.22999999999999998,36.34356063,https://aws.amazon.com/bedrock/pricing/
+Voxtral Mini 3B,2026-08-03,input,0.04,6.32061924,https://aws.amazon.com/bedrock/pricing/
+Voxtral Mini 3B,2026-08-03,output,0.04,6.32061924,https://aws.amazon.com/bedrock/pricing/
+Magistral Small,2026-08-03,input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Magistral Small,2026-08-03,output,1.5,237.02322149999998,https://aws.amazon.com/bedrock/pricing/
+NVIDIA Nemotron Nano 12B v2,2026-08-03,input,0.19999999999999998,31.603096199999996,https://aws.amazon.com/bedrock/pricing/
+NVIDIA Nemotron Nano 12B v2,2026-08-03,output,0.6,94.80928859999999,https://aws.amazon.com/bedrock/pricing/
+MiniMax M2,2026-08-03,input,0.3,47.404644299999994,https://aws.amazon.com/bedrock/pricing/
+MiniMax M2,2026-08-03,output,1.2,189.61857719999998,https://aws.amazon.com/bedrock/pricing/
+NVIDIA Nemotron Nano 3 30B,2026-08-03,input,0.06,9.480928859999999,https://aws.amazon.com/bedrock/pricing/
+NVIDIA Nemotron Nano 3 30B,2026-08-03,output,0.24,37.923715439999995,https://aws.amazon.com/bedrock/pricing/
+Ministral 3 3B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://aws.amazon.com/bedrock/pricing/
+Ministral 3 3B,2026-08-03,output,0.09999999999999999,15.801548099999998,https://aws.amazon.com/bedrock/pricing/
+Mistral Large,2026-08-03,input,0.5,79.0077405,https://aws.amazon.com/bedrock/pricing/
+Mistral Large,2026-08-03,output,1.5,237.02322149999998,https://aws.amazon.com/bedrock/pricing/
+Gemma 3 12B,2026-08-03,input,0.09,14.221393289999998,https://aws.amazon.com/bedrock/pricing/
+Gemma 3 12B,2026-08-03,output,0.29,45.82448949,https://aws.amazon.com/bedrock/pricing/
+Ministral 3 14B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://aws.amazon.com/bedrock/pricing/
+Ministral 3 14B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://aws.amazon.com/bedrock/pricing/
+Claude 4.5 Haiku,2026-08-03,input,1,158.015481,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 4.5 Haiku,2026-08-03,output,5,790.077405,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 4.5 Haiku,2026-08-03,cached_input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.7 Sonnet,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.7 Sonnet,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.7 Sonnet,2026-08-03,cached_input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.5 Sonnet,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.5 Sonnet,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.5 Sonnet,2026-08-03,cached_input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 30B A3B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 30B A3B,2026-08-03,output,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4,2026-08-03,input,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4,2026-08-03,output,75,11851.161075,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4,2026-08-03,cached_input,1.5,237.02322149999998,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 4 Sonnet,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 4 Sonnet,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 4 Sonnet,2026-08-03,cached_input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.6,2026-08-03,input,5,790.077405,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.6,2026-08-03,output,25,3950.387025,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.6,2026-08-03,cached_input,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+Nova Micro,2026-08-03,input,0.035,5.530541835,https://vercel.com/ai-gateway/models/glm-4.6
+Nova Micro,2026-08-03,output,0.14,22.12216734,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3 Opus,2026-08-03,input,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3 Opus,2026-08-03,output,75,11851.161075,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3 Opus,2026-08-03,cached_input,1.5,237.02322149999998,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 235B A22B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 235B A22B,2026-08-03,output,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 32B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 32B,2026-08-03,output,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.1,2026-08-03,input,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.1,2026-08-03,output,75,11851.161075,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.1,2026-08-03,cached_input,1.5,237.02322149999998,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 Coder,2026-08-03,input,0.39999999999999997,63.20619239999999,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 Coder,2026-08-03,output,1.5999999999999999,252.82476959999997,https://vercel.com/ai-gateway/models/glm-4.6
+Nova Pro,2026-08-03,input,0.7999999999999999,126.41238479999998,https://vercel.com/ai-gateway/models/glm-4.6
+Nova Pro,2026-08-03,output,3.1999999999999997,505.64953919999994,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3 Haiku,2026-08-03,input,0.25,39.50387025,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3 Haiku,2026-08-03,output,1.25,197.51935125,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3 Haiku,2026-08-03,cached_input,0.03,4.740464429999999,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 14B,2026-08-03,input,0.08,12.64123848,https://vercel.com/ai-gateway/models/glm-4.6
+Qwen 3 14B,2026-08-03,output,0.24,37.923715439999995,https://vercel.com/ai-gateway/models/glm-4.6
+Nova Lite,2026-08-03,input,0.06,9.480928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Nova Lite,2026-08-03,output,0.24,37.923715439999995,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.5,2026-08-03,input,5,790.077405,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.5,2026-08-03,output,25,3950.387025,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Opus 4.5,2026-08-03,cached_input,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.5 Haiku,2026-08-03,input,0.7999999999999999,126.41238479999998,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.5 Haiku,2026-08-03,output,4,632.061924,https://vercel.com/ai-gateway/models/glm-4.6
+Claude 3.5 Haiku,2026-08-03,cached_input,0.08,12.64123848,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Sonnet 4.5,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Sonnet 4.5,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Claude Sonnet 4.5,2026-08-03,cached_input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.5 Pro,2026-08-03,input,2.5,395.0387025,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.5 Pro,2026-08-03,output,10,1580.15481,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3 8B,2026-08-03,output,0.08,12.64123848,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.1 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.1 8B,2026-08-03,output,0.08,12.64123848,https://vercel.com/ai-gateway/models/glm-4.6
+DeepSeek R1,2026-08-03,input,0.75,118.51161074999999,https://vercel.com/ai-gateway/models/glm-4.6
+DeepSeek R1,2026-08-03,output,0.9900000000000001,156.43532619,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.5 Flash,2026-08-03,input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.5 Flash,2026-08-03,output,2.5,395.0387025,https://vercel.com/ai-gateway/models/glm-4.6
+Command R,2026-08-03,input,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+Command R,2026-08-03,output,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.0 Flash,2026-08-03,input,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.0 Flash,2026-08-03,output,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 11B,2026-08-03,input,0.16,25.28247696,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 11B,2026-08-03,output,0.16,25.28247696,https://vercel.com/ai-gateway/models/glm-4.6
+DeepSeek V3,2026-08-03,input,0.8999999999999999,142.21393289999997,https://vercel.com/ai-gateway/models/glm-4.6
+DeepSeek V3,2026-08-03,output,0.8999999999999999,142.21393289999997,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.0 Flash-Lite,2026-08-03,input,0.075,11.851161074999998,https://vercel.com/ai-gateway/models/glm-4.6
+Gemini 2.0 Flash-Lite,2026-08-03,output,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Devstral Small,2026-08-03,input,0.07,11.06108367,https://vercel.com/ai-gateway/models/glm-4.6
+Devstral Small,2026-08-03,output,0.28,44.24433468,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 1B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 1B,2026-08-03,output,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 4 Scout,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 4 Scout,2026-08-03,output,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Gemma 2 9B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://vercel.com/ai-gateway/models/glm-4.6
+Gemma 2 9B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 3B,2026-08-03,input,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 3B,2026-08-03,output,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.3 70B,2026-08-03,input,0.72,113.77114631999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.3 70B,2026-08-03,output,0.72,113.77114631999999,https://vercel.com/ai-gateway/models/glm-4.6
+Codestral,2026-08-03,input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Codestral,2026-08-03,output,0.8999999999999999,142.21393289999997,https://vercel.com/ai-gateway/models/glm-4.6
+Command A,2026-08-03,input,2.5,395.0387025,https://vercel.com/ai-gateway/models/glm-4.6
+Command A,2026-08-03,output,10,1580.15481,https://vercel.com/ai-gateway/models/glm-4.6
+Command R+,2026-08-03,input,2.5,395.0387025,https://vercel.com/ai-gateway/models/glm-4.6
+Command R+,2026-08-03,output,10,1580.15481,https://vercel.com/ai-gateway/models/glm-4.6
+DeepSeek R1,2026-08-03,input,0.55,86.90851455,https://vercel.com/ai-gateway/models/glm-4.6
+DeepSeek R1,2026-08-03,output,2.1900000000000004,346.0539033900001,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.1 70B,2026-08-03,input,0.72,113.77114631999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.1 70B,2026-08-03,output,0.72,113.77114631999999,https://vercel.com/ai-gateway/models/glm-4.6
+Mercury Coder Small,2026-08-03,input,0.25,39.50387025,https://vercel.com/ai-gateway/models/glm-4.6
+Mercury Coder Small,2026-08-03,output,1,158.015481,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3 70B,2026-08-03,input,0.59,93.22913378999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3 70B,2026-08-03,output,0.7899999999999999,124.83222998999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 90B,2026-08-03,input,0.72,113.77114631999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 3.2 90B,2026-08-03,output,0.72,113.77114631999999,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 4 Maverick,2026-08-03,input,0.19999999999999998,31.603096199999996,https://vercel.com/ai-gateway/models/glm-4.6
+Llama 4 Maverick,2026-08-03,output,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Mixtral 8x22B,2026-08-03,input,1.2,189.61857719999998,https://vercel.com/ai-gateway/models/glm-4.6
+Mixtral 8x22B,2026-08-03,output,1.2,189.61857719999998,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-3.5 Turbo,2026-08-03,input,1.5,237.02322149999998,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-3.5 Turbo,2026-08-03,output,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Magistral Small,2026-08-03,input,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+Magistral Small,2026-08-03,output,1.5,237.02322149999998,https://vercel.com/ai-gateway/models/glm-4.6
+Morph V3 Large,2026-08-03,input,0.8999999999999999,142.21393289999997,https://vercel.com/ai-gateway/models/glm-4.6
+Morph V3 Large,2026-08-03,output,1.9,300.2294139,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-3.5 Turbo,2026-08-03,input,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-3.5 Turbo,2026-08-03,output,1.5,237.02322149999998,https://vercel.com/ai-gateway/models/glm-4.6
+Kimi K2,2026-08-03,input,0.55,86.90851455,https://vercel.com/ai-gateway/models/glm-4.6
+Kimi K2,2026-08-03,output,2.2,347.6340582,https://vercel.com/ai-gateway/models/glm-4.6
+o3 Mini,2026-08-03,input,1.1,173.8170291,https://vercel.com/ai-gateway/models/glm-4.6
+o3 Mini,2026-08-03,output,4.4,695.2681164,https://vercel.com/ai-gateway/models/glm-4.6
+o3 Mini,2026-08-03,cached_input,0.55,86.90851455,https://vercel.com/ai-gateway/models/glm-4.6
+o3,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+o3,2026-08-03,output,8,1264.123848,https://vercel.com/ai-gateway/models/glm-4.6
+o3,2026-08-03,cached_input,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4o,2026-08-03,input,2.5,395.0387025,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4o,2026-08-03,output,10,1580.15481,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4o,2026-08-03,cached_input,1.25,197.51935125,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1,2026-08-03,output,8,1264.123848,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1,2026-08-03,cached_input,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+o1,2026-08-03,input,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+o1,2026-08-03,output,60,9480.92886,https://vercel.com/ai-gateway/models/glm-4.6
+o1,2026-08-03,cached_input,7.5,1185.1161075,https://vercel.com/ai-gateway/models/glm-4.6
+Mistral Saba 24B,2026-08-03,input,0.7899999999999999,124.83222998999999,https://vercel.com/ai-gateway/models/glm-4.6
+Mistral Saba 24B,2026-08-03,output,0.7899999999999999,124.83222998999999,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1 Nano,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1 Nano,2026-08-03,output,0.39999999999999997,63.20619239999999,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1 Nano,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1 Mini,2026-08-03,input,0.39999999999999997,63.20619239999999,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1 Mini,2026-08-03,output,1.5999999999999999,252.82476959999997,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4.1 Mini,2026-08-03,cached_input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Mistral Small,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Mistral Small,2026-08-03,output,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar,2026-08-03,input,1,158.015481,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar,2026-08-03,output,1,158.015481,https://vercel.com/ai-gateway/models/glm-4.6
+Pixtral 12B,2026-08-03,input,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+Pixtral 12B,2026-08-03,output,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+Mistral Large,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Mistral Large,2026-08-03,output,6,948.0928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Pixtral Large,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Pixtral Large,2026-08-03,output,6,948.0928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Ministral 3 8B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Ministral 3 8B,2026-08-03,output,0.09999999999999999,15.801548099999998,https://vercel.com/ai-gateway/models/glm-4.6
+Magistral Medium,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Magistral Medium,2026-08-03,output,5,790.077405,https://vercel.com/ai-gateway/models/glm-4.6
+Morph V3 Fast,2026-08-03,input,0.7999999999999999,126.41238479999998,https://vercel.com/ai-gateway/models/glm-4.6
+Morph V3 Fast,2026-08-03,output,1.2,189.61857719999998,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4o Mini,2026-08-03,input,0.15,23.702322149999997,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4o Mini,2026-08-03,output,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-4o Mini,2026-08-03,cached_input,0.075,11.851161074999998,https://vercel.com/ai-gateway/models/glm-4.6
+Ministral 3 3B,2026-08-03,input,0.04,6.32061924,https://vercel.com/ai-gateway/models/glm-4.6
+Ministral 3 3B,2026-08-03,output,0.04,6.32061924,https://vercel.com/ai-gateway/models/glm-4.6
+o4 Mini,2026-08-03,input,1.1,173.8170291,https://vercel.com/ai-gateway/models/glm-4.6
+o4 Mini,2026-08-03,output,4.4,695.2681164,https://vercel.com/ai-gateway/models/glm-4.6
+o4 Mini,2026-08-03,cached_input,0.275,43.454257275,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar Pro,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar Pro,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.6,2026-08-03,input,0.44999999999999996,71.10696644999999,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.6,2026-08-03,output,1.7999999999999998,284.42786579999995,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.6,2026-08-03,cached_input,0.10999999999999999,17.381702909999998,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.5,2026-08-03,input,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.5,2026-08-03,output,2.2,347.6340582,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar Reasoning,2026-08-03,input,1,158.015481,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar Reasoning,2026-08-03,output,5,790.077405,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 2,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 2,2026-08-03,output,10,1580.15481,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 3 Fast,2026-08-03,input,5,790.077405,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 3 Fast,2026-08-03,output,25,3950.387025,https://vercel.com/ai-gateway/models/glm-4.6
+v0 1.0 MD,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+v0 1.0 MD,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 3 Mini,2026-08-03,input,0.3,47.404644299999994,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 3 Mini,2026-08-03,output,0.5,79.0077405,https://vercel.com/ai-gateway/models/glm-4.6
+v0 1.5 MD,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+v0 1.5 MD,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 4.3,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 4.3,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 3 Mini,2026-08-03,input,0.6,94.80928859999999,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 3 Mini,2026-08-03,output,4,632.061924,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.5 Air,2026-08-03,input,0.19999999999999998,31.603096199999996,https://vercel.com/ai-gateway/models/glm-4.6
+GLM 4.5 Air,2026-08-03,output,1.1,173.8170291,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 4,2026-08-03,input,3,474.04644299999995,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 4,2026-08-03,output,15,2370.232215,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar Reasoning Pro,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Sonar Reasoning Pro,2026-08-03,output,8,1264.123848,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 2 Vision,2026-08-03,input,2,316.030962,https://vercel.com/ai-gateway/models/glm-4.6
+Grok 2 Vision,2026-08-03,output,10,1580.15481,https://vercel.com/ai-gateway/models/glm-4.6
+GPT-5.4 Nano,2026-08-03,input,0.19999999999999998,31.603096199999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Nano,2026-08-03,output,1.25,197.51935125,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Nano,2026-08-03,cached_input,0.02,3.16030962,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4,2026-08-03,input,2.5,395.0387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4,2026-08-03,output,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4,2026-08-03,cached_input,0.25,39.50387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Pro,2026-08-03,input,30,4740.46443,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Pro,2026-08-03,output,180,28442.78658,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Pro,2026-08-03,cached_input,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.1,2026-08-03,input,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.1,2026-08-03,output,75,11851.161075,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.1,2026-08-03,cached_input,1.5,237.02322149999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 5,2026-08-03,input,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 5,2026-08-03,output,25,3950.387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 5,2026-08-03,cached_input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Mini,2026-08-03,input,0.75,118.51161074999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Mini,2026-08-03,output,4.5,711.0696644999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.4 Mini,2026-08-03,cached_input,0.075,11.851161074999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.5,2026-08-03,input,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.5,2026-08-03,output,30,4740.46443,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-5.5,2026-08-03,cached_input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.8,2026-08-03,input,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.8,2026-08-03,output,25,3950.387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.8,2026-08-03,cached_input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 4.5,2026-08-03,input,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 4.5,2026-08-03,output,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 4.5,2026-08-03,cached_input,0.3,47.404644299999994,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.3 70B,2026-08-03,input,0.71,112.19099150999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.3 70B,2026-08-03,output,0.71,112.19099150999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude 4.5 Haiku,2026-08-03,input,1,158.015481,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude 4.5 Haiku,2026-08-03,output,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude 4.5 Haiku,2026-08-03,cached_input,0.09999999999999999,15.801548099999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 5,2026-08-03,input,2,316.030962,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 5,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 5,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.6,2026-08-03,input,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.6,2026-08-03,output,25,3950.387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.6,2026-08-03,cached_input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-OSS 120B,2026-08-03,input,0.15,23.702322149999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+GPT-OSS 120B,2026-08-03,output,0.6,94.80928859999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 4.6,2026-08-03,input,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 4.6,2026-08-03,output,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Sonnet 4.6,2026-08-03,cached_input,0.3,47.404644299999994,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.5,2026-08-03,input,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.5,2026-08-03,output,25,3950.387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.5,2026-08-03,cached_input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.2 11B Vision,2026-08-03,input,0.37,58.465727969999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.2 11B Vision,2026-08-03,output,0.37,58.465727969999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Fable 5,2026-08-03,input,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Fable 5,2026-08-03,output,50,7900.77405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Fable 5,2026-08-03,cached_input,1,158.015481,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.7,2026-08-03,input,5,790.077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.7,2026-08-03,output,25,3950.387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Claude Opus 4.7,2026-08-03,cached_input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.2 90B Vision,2026-08-03,input,2.04,322.35158124,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.2 90B Vision,2026-08-03,output,2.04,322.35158124,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.1 8B,2026-08-03,input,0.3,47.404644299999994,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.1 8B,2026-08-03,output,0.61,96.38944341,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Medium 4K,2026-08-03,input,0.16999999999999998,26.862631769999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Medium 4K,2026-08-03,output,0.6799999999999999,107.45052707999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Small 8K,2026-08-03,input,0.15,23.702322149999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Small 8K,2026-08-03,output,0.6,94.80928859999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 4 Maverick,2026-08-03,input,1.4100000000000001,222.80182821000002,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 4 Maverick,2026-08-03,output,0.35,55.30541835,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek R1,2026-08-03,input,1.35,213.32089935000002,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek R1,2026-08-03,output,5.4,853.2835974000001,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Small 128K,2026-08-03,input,0.15,23.702322149999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Small 128K,2026-08-03,output,0.6,94.80928859999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V3,2026-08-03,input,1.1400000000000001,180.13764834000003,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V3,2026-08-03,output,4.5600000000000005,720.5505933600001,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 4 Scout,2026-08-03,input,0.19999999999999998,31.603096199999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 4 Scout,2026-08-03,output,0.78,123.25207518,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Reasoning,2026-08-03,input,0.125,19.751935125,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Reasoning,2026-08-03,output,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Mini 128K,2026-08-03,input,0.13,20.54201253,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Mini 128K,2026-08-03,output,0.52,82.16805012,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Mini Reasoning,2026-08-03,input,0.08,12.64123848,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Mini Reasoning,2026-08-03,output,0.32,50.56495392,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Mini,2026-08-03,input,0.075,11.851161074999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Mini,2026-08-03,output,0.3,47.404644299999994,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Multimodal,2026-08-03,input,0.08,12.64123848,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4 Multimodal,2026-08-03,output,0.32,50.56495392,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.1 70B,2026-08-03,input,2.68,423.48148908,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.1 70B,2026-08-03,output,3.54,559.37480274,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4,2026-08-03,input,0.125,19.751935125,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-4,2026-08-03,output,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3.5 MoE,2026-08-03,input,0.16,25.28247696,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3.5 MoE,2026-08-03,output,0.64,101.12990784,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Medium 128K,2026-08-03,input,0.16999999999999998,26.862631769999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Medium 128K,2026-08-03,output,0.6799999999999999,107.45052707999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Mini 4K,2026-08-03,input,0.13,20.54201253,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3 Mini 4K,2026-08-03,output,0.52,82.16805012,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3 70B,2026-08-03,input,1.1,173.8170291,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3 70B,2026-08-03,output,0.37,58.465727969999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V3,2026-08-03,input,0.58,91.64897898,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V3,2026-08-03,output,1.68,265.46600808,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3.5 Vision,2026-08-03,input,0.13,20.54201253,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3.5 Vision,2026-08-03,output,0.52,82.16805012,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3.5 Mini,2026-08-03,input,0.13,20.54201253,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Phi-3.5 Mini,2026-08-03,output,0.52,82.16805012,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.1 405B,2026-08-03,input,5.33,842.22251373,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Llama 3.1 405B,2026-08-03,output,16,2528.247696,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Nemo,2026-08-03,input,0.15,23.702322149999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Nemo,2026-08-03,output,0.15,23.702322149999997,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 4.3,2026-08-03,input,0.19999999999999998,31.603096199999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 4.3,2026-08-03,output,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Small,2026-08-03,input,1,158.015481,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Small,2026-08-03,output,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+JAIS 30B Chat,2026-08-03,input,3200,505649.5392,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+JAIS 30B Chat,2026-08-03,output,9710,1534330.32051,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Ministral 3 3B,2026-08-03,input,0.04,6.32061924,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Ministral 3 3B,2026-08-03,output,0.04,6.32061924,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 4.3,2026-08-03,input,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 4.3,2026-08-03,output,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Kimi K2.5,2026-08-03,input,0.6,94.80928859999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Kimi K2.5,2026-08-03,output,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 4,2026-08-03,input,3,474.04644299999995,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 4,2026-08-03,output,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Large,2026-08-03,input,2,316.030962,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Large,2026-08-03,output,6,948.0928859999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Large,2026-08-03,input,4,632.061924,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Large,2026-08-03,output,12,1896.1857719999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Large,2026-08-03,input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Large,2026-08-03,output,1.5,237.02322149999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V4 Flash,2026-08-03,input,0.19,30.02294139,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V4 Flash,2026-08-03,output,0.51,80.58789531,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 3 Mini,2026-08-03,input,0.25,39.50387025,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok 3 Mini,2026-08-03,output,1.27,200.67966087,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Jamba Instruct,2026-08-03,input,0.5,79.0077405,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Jamba Instruct,2026-08-03,output,0.7,110.6108367,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V3,2026-08-03,input,1.23,194.35904162999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V3,2026-08-03,output,4.94,780.59647614,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V4 Pro,2026-08-03,input,1.74,274.94693694,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+DeepSeek V4 Pro,2026-08-03,output,3.48,549.89387388,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok Build 0.1,2026-08-03,input,0.19999999999999998,31.603096199999996,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Grok Build 0.1,2026-08-03,output,1.5,237.02322149999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Kimi K2,2026-08-03,input,0.95,150.11470695,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Kimi K2,2026-08-03,output,4,632.061924,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Small,2026-08-03,input,0.09999999999999999,15.801548099999998,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Small,2026-08-03,output,0.3,47.404644299999994,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Medium,2026-08-03,input,0.39999999999999997,63.20619239999999,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Mistral Medium,2026-08-03,output,2,316.030962,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+Qwen 2.5 7B,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 7B,2026-08-03,output,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Next 80B A3B,2026-08-03,input,0.14,22.12216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Next 80B A3B,2026-08-03,output,1.4,221.2216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Lunaris 8B,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,2.9000000000000004,458.2448949,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,input,0.18,28.442786579999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,0.54,85.32835974,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,2.4,379.23715439999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,2.1500000000000004,339.73328415000003,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,cached_input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 32B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 32B,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4,2026-08-03,input,16.5,2607.2554365,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4,2026-08-03,output,82.5,13036.2771825,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder 480B A35B,2026-08-03,input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder 480B A35B,2026-08-03,output,1.5999999999999999,252.82476959999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,output,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+olmOCR 7B,2026-08-03,input,0.27,42.66417987,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+olmOCR 7B,2026-08-03,output,1.5,237.02322149999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 32B,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,3,474.04644299999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+MythoMax L2 13B,2026-08-03,input,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4 Sonnet,2026-08-03,input,3.3000000000000003,521.4510873,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4 Sonnet,2026-08-03,output,16.5,2607.2554365,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+QwQ 32B,2026-08-03,input,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+QwQ 32B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.7 Sonnet,2026-08-03,input,3.3000000000000003,521.4510873,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.7 Sonnet,2026-08-03,output,16.5,2607.2554365,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.7 Sonnet,2026-08-03,cached_input,0.33,52.145108730000004,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 72B,2026-08-03,input,0.12,18.961857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 2.5 72B,2026-08-03,output,0.39,61.62603759,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder 480B A35B,2026-08-03,input,0.29,45.82448949,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder 480B A35B,2026-08-03,output,1.2,189.61857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 405B,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 405B,2026-08-03,output,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 14B,2026-08-03,input,0.06,9.480928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 14B,2026-08-03,output,0.24,37.923715439999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 30B A3B,2026-08-03,input,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 30B A3B,2026-08-03,output,0.29,45.82448949,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.27,42.66417987,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,0.27,42.66417987,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.2 11B Vision,2026-08-03,input,0.049,7.742758569,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.2 11B Vision,2026-08-03,output,0.049,7.742758569,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,output,0.06,9.480928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Scout,2026-08-03,input,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Scout,2026-08-03,output,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.5 Flash,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.5 Flash,2026-08-03,output,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 4 Maverick,2026-08-03,input,0.15,23.702322149999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.2 3B,2026-08-03,input,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.2 3B,2026-08-03,output,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,output,0.28,44.24433468,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 27B,2026-08-03,input,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 27B,2026-08-03,output,0.16,25.28247696,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,0.38,60.04588278,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,0.8899999999999999,140.63377809,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.5 Pro,2026-08-03,input,1.25,197.51935125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.5 Pro,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 4B,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 3 4B,2026-08-03,output,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.0 Flash,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.0 Flash,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,input,0.22999999999999998,36.34356063,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama Guard 3 8B,2026-08-03,input,0.055,8.690851454999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama Guard 3 8B,2026-08-03,output,0.055,8.690851454999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,cached_input,0.216,34.131343896,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama Guard 4 12B,2026-08-03,input,0.18,28.442786579999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama Guard 4 12B,2026-08-03,output,0.18,28.442786579999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,input,0.13,20.54201253,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.3 70B,2026-08-03,output,0.39,61.62603759,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,0.88,139.05362327999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mixtral 8x7B,2026-08-03,input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mixtral 8x7B,2026-08-03,output,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,input,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 70B,2026-08-03,output,0.6,94.80928859999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+WizardLM 2 8x22B,2026-08-03,input,0.48,75.84743087999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+WizardLM 2 8x22B,2026-08-03,output,0.48,75.84743087999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+NVIDIA Nemotron Nano 9B v2,2026-08-03,input,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+NVIDIA Nemotron Nano 9B v2,2026-08-03,output,0.16,25.28247696,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,input,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,output,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Instruct,2026-08-03,cached_input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Small,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Small,2026-08-03,output,0.08,12.64123848,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3.1 8B,2026-08-03,output,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Phi-4,2026-08-03,input,0.07,11.06108367,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Phi-4,2026-08-03,output,0.14,22.12216734,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Nemo,2026-08-03,input,0.02,3.16030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Nemo,2026-08-03,output,0.04,6.32061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5,2026-08-03,input,0.39999999999999997,63.20619239999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GLM 4.5,2026-08-03,output,1.5999999999999999,252.82476959999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,output,0.44999999999999996,71.10696644999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Small,2026-08-03,input,0.075,11.851161074999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral Small,2026-08-03,output,0.19999999999999998,31.603096199999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 3.6 Flash,2026-08-03,input,1.5,237.02322149999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3.6 Flash,2026-08-03,output,7.5,1185.1161075,https://ai.google.dev/pricing#2_0flash
+Gemini 3.6 Flash,2026-08-03,cached_input,0.15,23.702322149999997,https://ai.google.dev/pricing#2_0flash
+Gemini 3.5 Flash-Lite,2026-08-03,input,0.3,47.404644299999994,https://ai.google.dev/pricing#2_0flash
+Gemini 3.5 Flash-Lite,2026-08-03,output,2.5,395.0387025,https://ai.google.dev/pricing#2_0flash
+Gemini 3.5 Flash-Lite,2026-08-03,cached_input,0.03,4.740464429999999,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash Image Preview,2026-08-03,input,0.5,79.0077405,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash Image Preview,2026-08-03,output,3,474.04644299999995,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash-Lite,2026-08-03,input,0.09999999999999999,15.801548099999998,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash-Lite,2026-08-03,output,0.39999999999999997,63.20619239999999,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash-Lite,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro Preview,2026-08-03,input,2,316.030962,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro Preview,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro Preview,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash,2026-08-03,input,0.09999999999999999,15.801548099999998,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash,2026-08-03,output,0.39999999999999997,63.20619239999999,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro Image Preview,2026-08-03,input,2,316.030962,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro Image Preview,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Pro,2026-08-03,input,1.25,197.51935125,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Pro,2026-08-03,output,10,1580.15481,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Pro,2026-08-03,cached_input,0.125,19.751935125,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash-Lite Preview,2026-08-03,input,0.25,39.50387025,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash-Lite Preview,2026-08-03,output,1.5,237.02322149999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash-Lite Preview,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash-Lite,2026-08-03,input,0.075,11.851161074999998,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash-Lite,2026-08-03,output,0.3,47.404644299999994,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash-Lite,2026-08-03,cached_input,0.01875,2.9627902687499996,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro,2026-08-03,input,2,316.030962,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Pro,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Pro Preview,2026-08-03,input,2,316.030962,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Pro Preview,2026-08-03,output,12,1896.1857719999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Pro Preview,2026-08-03,cached_input,0.19999999999999998,31.603096199999996,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash,2026-08-03,input,0.3,47.404644299999994,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash,2026-08-03,output,2,316.030962,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash,2026-08-03,cached_input,0.075,11.851161074999998,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash-Lite,2026-08-03,cached_input,0.01,1.58015481,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash-Lite,2026-08-03,input,0.25,39.50387025,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash-Lite,2026-08-03,output,1.5,237.02322149999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3.1 Flash-Lite,2026-08-03,cached_input,0.024999999999999998,3.9503870249999995,https://ai.google.dev/pricing#2_0flash
+Gemini 3.5 Flash,2026-08-03,input,1.5,237.02322149999998,https://ai.google.dev/pricing#2_0flash
+Gemini 3.5 Flash,2026-08-03,output,9,1422.1393289999999,https://ai.google.dev/pricing#2_0flash
+Gemini 3.5 Flash,2026-08-03,cached_input,0.15,23.702322149999997,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash,2026-08-03,output,2.5,395.0387025,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash,2026-08-03,input,0.15,23.702322149999997,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash,2026-08-03,output,0.6,94.80928859999999,https://ai.google.dev/pricing#2_0flash
+Gemini 2.0 Flash,2026-08-03,cached_input,0.0375,5.925580537499999,https://ai.google.dev/pricing#2_0flash
+Gemini 2.5 Flash,2026-08-03,cached_input,0.03,4.740464429999999,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Flash Preview,2026-08-03,input,0.5,79.0077405,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Flash Preview,2026-08-03,output,3,474.04644299999995,https://ai.google.dev/pricing#2_0flash
+Gemini 3 Flash Preview,2026-08-03,cached_input,0.049999999999999996,7.900774049999999,https://ai.google.dev/pricing#2_0flash
+Devstral,2026-08-03,input,0.39999999999999997,63.20619239999999,https://mistral.ai/news/codestral-25-08
+Devstral,2026-08-03,output,2,316.030962,https://mistral.ai/news/codestral-25-08
+Devstral Small,2026-08-03,input,0.09999999999999999,15.801548099999998,https://mistral.ai/news/codestral-25-08
+Devstral Small,2026-08-03,output,0.3,47.404644299999994,https://mistral.ai/news/codestral-25-08
+Devstral Medium,2026-08-03,input,0.39999999999999997,63.20619239999999,https://mistral.ai/news/codestral-25-08
+Devstral Medium,2026-08-03,output,2,316.030962,https://mistral.ai/news/codestral-25-08
+Codestral,2026-08-03,input,1,158.015481,https://mistral.ai/news/codestral-25-08
+Codestral,2026-08-03,output,3,474.04644299999995,https://mistral.ai/news/codestral-25-08
+Codestral,2026-08-03,input,0.3,47.404644299999994,https://mistral.ai/news/codestral-25-08
+Codestral,2026-08-03,output,0.8999999999999999,142.21393289999997,https://mistral.ai/news/codestral-25-08
+Codestral Embed,2026-08-03,input,0.15,23.702322149999997,https://mistral.ai/news/codestral-25-08
+Magistral Small,2026-08-03,input,0.5,79.0077405,https://mistral.ai/news/codestral-25-08
+Magistral Small,2026-08-03,output,1.5,237.02322149999998,https://mistral.ai/news/codestral-25-08
+Codestral Mamba,2026-08-03,input,0.25,39.50387025,https://mistral.ai/news/codestral-25-08
+Codestral Mamba,2026-08-03,output,0.25,39.50387025,https://mistral.ai/news/codestral-25-08
+Magistral Medium,2026-08-03,input,2,316.030962,https://mistral.ai/news/codestral-25-08
+Magistral Medium,2026-08-03,output,5,790.077405,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,input,4,632.061924,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,output,12,1896.1857719999998,https://mistral.ai/news/codestral-25-08
+Mistral Embed,2026-08-03,input,0.09999999999999999,15.801548099999998,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,input,2,316.030962,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,output,6,948.0928859999999,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,input,3,474.04644299999995,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,output,9,1422.1393289999999,https://mistral.ai/news/codestral-25-08
+Mistral Medium,2026-08-03,input,1.5,237.02322149999998,https://mistral.ai/news/codestral-25-08
+Mistral Medium,2026-08-03,output,7.5,1185.1161075,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,input,0.5,79.0077405,https://mistral.ai/news/codestral-25-08
+Mistral Large,2026-08-03,output,1.5,237.02322149999998,https://mistral.ai/news/codestral-25-08
+Ministral 3 8B,2026-08-03,input,0.15,23.702322149999997,https://mistral.ai/news/codestral-25-08
+Ministral 3 8B,2026-08-03,output,0.15,23.702322149999997,https://mistral.ai/news/codestral-25-08
+Mistral Nemo,2026-08-03,input,0.3,47.404644299999994,https://mistral.ai/news/codestral-25-08
+Mistral Nemo,2026-08-03,output,0.3,47.404644299999994,https://mistral.ai/news/codestral-25-08
+Mixtral 8x22B,2026-08-03,input,2,316.030962,https://mistral.ai/news/codestral-25-08
+Mixtral 8x22B,2026-08-03,output,6,948.0928859999999,https://mistral.ai/news/codestral-25-08
+Mistral Tiny,2026-08-03,input,0.25,39.50387025,https://mistral.ai/news/codestral-25-08
+Mistral Tiny,2026-08-03,output,0.25,39.50387025,https://mistral.ai/news/codestral-25-08
+Ministral 3 14B,2026-08-03,input,0.19999999999999998,31.603096199999996,https://mistral.ai/news/codestral-25-08
+Ministral 3 14B,2026-08-03,output,0.19999999999999998,31.603096199999996,https://mistral.ai/news/codestral-25-08
+Mistral Small,2026-08-03,input,0.06,9.480928859999999,https://mistral.ai/news/codestral-25-08
+Mistral Small,2026-08-03,output,0.18,28.442786579999996,https://mistral.ai/news/codestral-25-08
+Mistral Medium,2026-08-03,input,0.39999999999999997,63.20619239999999,https://mistral.ai/news/codestral-25-08
+Mistral Medium,2026-08-03,output,2,316.030962,https://mistral.ai/news/codestral-25-08
+Mistral Medium,2026-08-03,input,2.7,426.64179870000004,https://mistral.ai/news/codestral-25-08
+Mistral Medium,2026-08-03,output,8.1,1279.9253961,https://mistral.ai/news/codestral-25-08
+Ministral 3 3B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://mistral.ai/news/codestral-25-08
+Ministral 3 3B,2026-08-03,output,0.09999999999999999,15.801548099999998,https://mistral.ai/news/codestral-25-08
+Open Mistral 7B,2026-08-03,input,0.25,39.50387025,https://mistral.ai/news/codestral-25-08
+Open Mistral 7B,2026-08-03,output,0.25,39.50387025,https://mistral.ai/news/codestral-25-08
+Mistral Small,2026-08-03,input,0.09999999999999999,15.801548099999998,https://mistral.ai/news/codestral-25-08
+Mistral Small,2026-08-03,output,0.3,47.404644299999994,https://mistral.ai/news/codestral-25-08
+Pixtral Large,2026-08-03,input,2,316.030962,https://mistral.ai/news/codestral-25-08
+Pixtral Large,2026-08-03,output,6,948.0928859999999,https://mistral.ai/news/codestral-25-08
+Mixtral 8x7B,2026-08-03,input,0.7,110.6108367,https://mistral.ai/news/codestral-25-08
+Mixtral 8x7B,2026-08-03,output,0.7,110.6108367,https://mistral.ai/news/codestral-25-08
+Pixtral 12B,2026-08-03,input,0.15,23.702322149999997,https://mistral.ai/news/codestral-25-08
+Pixtral 12B,2026-08-03,output,0.15,23.702322149999997,https://mistral.ai/news/codestral-25-08
+Llama 2 70B,2026-08-03,input,0.65,102.71006265,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 70B,2026-08-03,output,2.75,434.54257275,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B Instruct,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B Instruct,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,input,0.09,14.221393289999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 20B,2026-08-03,output,0.36,56.88557315999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 7B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 7B,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,input,0.26399999999999996,41.71608698399999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 235B A22B,2026-08-03,output,1.06,167.49640986,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Granite 3.3 8B Instruct,2026-08-03,input,0.03,4.740464429999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Granite 3.3 8B Instruct,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 8B,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 70B Chat,2026-08-03,input,0.65,102.71006265,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 70B Chat,2026-08-03,output,2.75,434.54257275,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 70B,2026-08-03,input,0.65,102.71006265,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 3 70B,2026-08-03,output,2.75,434.54257275,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 13B,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 13B,2026-08-03,output,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-03,output,4,632.061924,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 13B Chat,2026-08-03,input,0.09999999999999999,15.801548099999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 13B Chat,2026-08-03,output,0.5,79.0077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mixtral 8x7B,2026-08-03,input,0.3,47.404644299999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mixtral 8x7B,2026-08-03,output,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,1.4500000000000002,229.12244745,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,1.4500000000000002,229.12244745,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 7B Chat,2026-08-03,input,0.049999999999999996,7.900774049999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Llama 2 7B Chat,2026-08-03,output,0.25,39.50387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1 Mini,2026-08-03,input,1.1,173.8170291,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1 Mini,2026-08-03,output,4.4,695.2681164,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.5 Sonnet,2026-08-03,input,3.75,592.55805375,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.5 Sonnet,2026-08-03,output,18.75,2962.79026875,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,input,3.75,592.55805375,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek R1,2026-08-03,output,10,1580.15481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,input,0.6719999999999999,106.18640323199999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+DeepSeek V3,2026-08-03,output,2.016,318.559209696,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Grok 4,2026-08-03,input,7.199999999999999,1137.7114631999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Grok 4,2026-08-03,output,36,5688.557315999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 3 Pro,2026-08-03,input,2,316.030962,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 3 Pro,2026-08-03,output,12,1896.1857719999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,input,0.18,28.442786579999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-OSS 120B,2026-08-03,output,0.72,113.77114631999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.5 Haiku,2026-08-03,input,1,158.015481,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 3.5 Haiku,2026-08-03,output,5,790.077405,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 2.5 Flash,2026-08-03,input,2.5,395.0387025,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-03,input,1.75,276.527092,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Codex,2026-08-03,output,14,2212.216734,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Codex,2026-08-03,cached_input,0.175,27.652709,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-08-03,input,1.75,276.527092,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-08-03,output,14,2212.216734,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-08-03,cached_input,0.175,27.652709,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-08-03,input,1.75,276.527092,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-08-03,output,14,2212.216734,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-08-03,cached_input,0.175,27.652709,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Pro,2026-08-03,input,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Pro,2026-08-03,output,120,18961.85772,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-08-03,input,0.25,39.50387,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-08-03,output,2,316.030962,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-08-03,cached_input,0.025,3.950387,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Chat Latest,2026-08-03,input,1.25,197.519351,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Chat Latest,2026-08-03,output,10,1580.15481,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Chat Latest,2026-08-03,cached_input,0.125,19.751935,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3,2026-08-03,input,2,316.030962,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3,2026-08-03,output,8,1264.123848,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3,2026-08-03,cached_input,0.5,79.00774,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-08-03,input,0.25,39.50387,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-08-03,output,2,316.030962,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-08-03,cached_input,0.025,3.950387,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-08-03,input,0.05,7.900774,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-08-03,output,0.4,63.206192,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-08-03,cached_input,0.005,0.790077,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-08-03,input,1.1,173.817029,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-08-03,output,4.4,695.268116,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-08-03,cached_input,0.275,43.454257,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1,2026-08-03,input,15,2370.232215,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1,2026-08-03,output,60,9480.92886,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1,2026-08-03,cached_input,7.5,1185.116107,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-08-03,input,1.1,173.817029,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-08-03,output,4.4,695.268116,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-08-03,cached_input,0.55,86.908515,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-08-03,input,1.1,173.817029,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-08-03,output,4.4,695.268116,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-08-03,cached_input,0.55,86.908515,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+Claude Opus 4.6,2026-08-03,input,5,790.077405,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-08-03,output,25,3950.387025,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-08-03,cached_input,0.5,79.00774,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-08-03,input,5,790.077405,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-08-03,output,25,3950.387025,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-08-03,cached_input,0.5,79.00774,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-08-03,input,3,474.046443,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-08-03,output,15,2370.232215,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-08-03,cached_input,0.3,47.404644,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-08-03,input,3,474.046443,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-08-03,output,15,2370.232215,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-08-03,cached_input,0.3,47.404644,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Opus,2026-08-03,input,15,2370.232215,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Opus,2026-08-03,output,75,11851.161075,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Opus,2026-08-03,cached_input,1.5,237.023221,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Sonnet,2026-08-03,input,3,474.046443,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Sonnet,2026-08-03,output,15,2370.232215,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4 Sonnet,2026-08-03,cached_input,0.3,47.404644,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 3.5 Haiku,2026-08-03,input,0.8,126.412385,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 3.5 Haiku,2026-08-03,output,4,632.061924,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 3.5 Haiku,2026-08-03,cached_input,0.08,12.641238,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-08-03,input,1,158.015481,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-08-03,output,5,790.077405,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-08-03,cached_input,0.1,15.801548,https://platform.claude.com/docs/en/about-claude/pricing
+GPT-5.6 Terra,2026-08-03,input,2,316.030962,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-03,output,12,1896.185772,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-03,cached_input,0.2,31.603096,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-03,input,5,790.077405,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-03,output,30,4740.46443,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-03,cached_input,0.5,79.00774,https://developers.openai.com/api/docs/pricing/
+GPT-5.5 Pro,2026-08-03,input,30,4740.46443,https://developers.openai.com/api/docs/pricing/
+GPT-5.5 Pro,2026-08-03,output,180,28442.78658,https://developers.openai.com/api/docs/pricing/
+GPT-5.5,2026-08-03,input,5,790.077405,https://developers.openai.com/api/docs/pricing/
+GPT-5.5,2026-08-03,output,30,4740.46443,https://developers.openai.com/api/docs/pricing/
+GPT-5.5,2026-08-03,cached_input,0.5,79.00774,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-03,input,0.2,31.603096,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-03,output,1.2,189.618577,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-03,cached_input,0.02,3.16031,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Mini,2026-08-03,input,0.75,118.511611,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Mini,2026-08-03,output,4.5,711.069664,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Mini,2026-08-03,cached_input,0.075,11.851161,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Nano,2026-08-03,input,0.2,31.603096,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Nano,2026-08-03,output,1.25,197.519351,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Nano,2026-08-03,cached_input,0.02,3.16031,https://developers.openai.com/api/docs/pricing/
+GPT-5.4,2026-08-03,input,2.5,395.038702,https://developers.openai.com/api/docs/pricing/
+GPT-5.4,2026-08-03,output,15,2370.232215,https://developers.openai.com/api/docs/pricing/
+GPT-5.4,2026-08-03,cached_input,0.25,39.50387,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Pro,2026-08-03,input,30,4740.46443,https://developers.openai.com/api/docs/pricing/
+GPT-5.4 Pro,2026-08-03,output,180,28442.78658,https://developers.openai.com/api/docs/pricing/
+Gemini 2.5 Flash-Lite,2026-08-03,input,0.1,15.801548,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash-Lite,2026-08-03,output,0.4,63.206192,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash-Lite,2026-08-03,cached_input,0.01,1.580155,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,input,0.3,47.404644,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,output,2.5,395.038702,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash,2026-08-03,cached_input,0.03,4.740464,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Pro,2026-08-03,input,1.25,197.519351,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Pro,2026-08-03,cached_input,0.125,19.751935,https://ai.google.dev/gemini-api/docs/pricing
