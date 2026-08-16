@@ -126328,3 +126328,57 @@ GPT-5.3,2026-08-15,output,14,2226.14,https://raw.githubusercontent.com/BerriAI/l
 GPT-5.3,2026-08-15,cached_input,0.175,27.826749999999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 GPT-5,2026-08-15,cached_input,0.125,19.87625,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 GPT-5.3 Codex,2026-08-15,cached_input,0.175,27.826749999999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Grok 4.6,2026-08-16,input,2,318.02,https://docs.x.ai/developers/models
+Grok 4.6,2026-08-16,output,6,954.06,https://docs.x.ai/developers/models
+Grok 4.6,2026-08-16,cached_input,0.5,79.505,https://docs.x.ai/developers/models
+Gemini 3 Flash Preview,2026-08-16,input,1,159.01,https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-tts-preview
+Gemini 3 Flash Preview,2026-08-16,output,20,3180.2,https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-tts-preview
+GLM 5,2026-08-16,input,1.1,174.911,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM 5,2026-08-16,output,3.52,559.7152,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM 5,2026-08-16,cached_input,0.22,34.9822,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM 5,2026-08-16,input,1.54,244.87539999999998,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM 5,2026-08-16,output,4.84,769.6084,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM 5,2026-08-16,cached_input,0.286,45.476859999999995,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+DeepSeek V4 Pro,2026-08-16,input,1.9250000000000003,306.09425000000005,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+DeepSeek V4 Pro,2026-08-16,output,3.8279999999999994,608.6902799999999,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+DeepSeek V4 Pro,2026-08-16,cached_input,0.165,26.23665,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+DeepSeek V3,2026-08-16,input,0.62,98.58619999999999,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+DeepSeek V3,2026-08-16,output,1.85,294.1685,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+DeepSeek V3,2026-08-16,cached_input,0.31,49.293099999999995,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+MiniMax M2.5,2026-08-16,input,0.33,52.4733,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+MiniMax M2.5,2026-08-16,output,1.32,209.8932,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+MiniMax M2.5,2026-08-16,cached_input,0.032999999999999995,5.247329999999999,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM-5.2,2026-08-16,input,2.0999999999999996,333.92099999999994,https://docs.fireworks.ai/serverless/pricing
+GLM-5.2,2026-08-16,output,6.6000000000000005,1049.4660000000001,https://docs.fireworks.ai/serverless/pricing
+GLM-5.2,2026-08-16,cached_input,0.21,33.3921,https://docs.fireworks.ai/serverless/pricing
+Kimi K2.5,2026-08-16,input,0.66,104.9466,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K2.5,2026-08-16,output,3.3000000000000003,524.7330000000001,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K2.5,2026-08-16,cached_input,0.11,17.4911,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K2,2026-08-16,input,1.045,166.16545,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K2,2026-08-16,output,4.4,699.644,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K2,2026-08-16,cached_input,0.176,27.985759999999996,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K3,2026-08-16,input,3.3000000000000003,524.7330000000001,https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-through-fireworks-ai-on-microsoft-foundry/4540187
+Kimi K3,2026-08-16,output,16.5,2623.665,https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-through-fireworks-ai-on-microsoft-foundry/4540187
+Kimi K3,2026-08-16,cached_input,0.33,52.4733,https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-through-fireworks-ai-on-microsoft-foundry/4540187
+Kimi K2,2026-08-16,input,1.0499999999999998,166.96049999999997,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Kimi K2,2026-08-16,cached_input,0.21,33.3921,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM-5.2,2026-08-16,input,1.54,244.87539999999998,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM-5.2,2026-08-16,output,4.84,769.6084,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+GLM-5.2,2026-08-16,cached_input,0.15,23.851499999999998,https://azure.microsoft.com/en-us/pricing/details/ai-foundry-models/fireworks/
+Grok 4.3,2026-08-16,input,1.25,198.7625,https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-grok-4-3-on-microsoft-foundry-latest-generation-agentic-capabilities/4517096
+Grok 4.3,2026-08-16,output,2.5,397.525,https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-grok-4-3-on-microsoft-foundry-latest-generation-agentic-capabilities/4517096
+Grok 4.3,2026-08-16,cached_input,0.19999999999999998,31.801999999999996,https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-grok-4-3-on-microsoft-foundry-latest-generation-agentic-capabilities/4517096
+Qwen 3 Max,2026-08-16,input,0.359,57.08459,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Max,2026-08-16,output,1.434,228.02034,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 Plus,2026-08-16,input,0.115,18.28615,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 Plus,2026-08-16,output,0.688,109.39888,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Plus,2026-08-16,input,0.115,18.28615,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Plus,2026-08-16,output,1.147,182.38447,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Flash,2026-08-16,input,0.022,3.49822,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Flash,2026-08-16,output,0.216,34.34616,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Plus,2026-08-16,input,0.574,91.27174,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Plus,2026-08-16,output,2.294,364.76894,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Flash,2026-08-16,input,0.144,22.89744,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Flash,2026-08-16,output,0.574,91.27174,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 397B A17B,2026-08-16,input,0.172,27.34972,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 397B A17B,2026-08-16,output,1.032,164.09832,https://www.alibabacloud.com/help/en/model-studio/model-pricing
