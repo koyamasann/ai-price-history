@@ -127193,3 +127193,6 @@ Mixtral 8x22B,2026-08-17,input,0,0,https://raw.githubusercontent.com/BerriAI/lit
 Mixtral 8x22B,2026-08-17,output,0,0,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 DeepSeek Coder,2026-08-17,input,0,0,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 DeepSeek Coder,2026-08-17,output,0,0,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-18,input,2,319.4,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-18,output,10,1597,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-18,cached_input,0.19999999999999998,31.939999999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
