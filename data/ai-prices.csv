@@ -127199,3 +127199,6 @@ Claude Sonnet 5,2026-08-18,cached_input,0.19999999999999998,31.939999999999994,h
 Claude Sonnet 5,2026-08-19,input,2,318.18,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 Claude Sonnet 5,2026-08-19,output,10,1590.9,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 Claude Sonnet 5,2026-08-19,cached_input,0.19999999999999998,31.817999999999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-20,input,2,317.52,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-20,output,10,1587.6,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-08-20,cached_input,0.19999999999999998,31.751999999999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
