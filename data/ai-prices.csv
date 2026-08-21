@@ -127202,3 +127202,32 @@ Claude Sonnet 5,2026-08-19,cached_input,0.19999999999999998,31.817999999999998,h
 Claude Sonnet 5,2026-08-20,input,2,317.52,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 Claude Sonnet 5,2026-08-20,output,10,1587.6,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
 Claude Sonnet 5,2026-08-20,cached_input,0.19999999999999998,31.751999999999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-21,input,12.5,1983.7499999999998,https://platform.openai.com/docs/models/gpt-5.6-cyber
+GPT-5.6 Sol,2026-08-21,output,75,11902.5,https://platform.openai.com/docs/models/gpt-5.6-cyber
+GPT-5.6 Sol,2026-08-21,cached_input,1.25,198.375,https://platform.openai.com/docs/models/gpt-5.6-cyber
+Kimi K2,2026-08-21,input,0.95,150.765,https://docs.perplexity.ai/docs/agent-api/models
+Kimi K2,2026-08-21,output,4,634.8,https://docs.perplexity.ai/docs/agent-api/models
+Kimi K2,2026-08-21,cached_input,0.19,30.153,https://docs.perplexity.ai/docs/agent-api/models
+GLM-5.2,2026-08-21,input,1.4,222.17999999999998,https://docs.perplexity.ai/docs/agent-api/models
+GLM-5.2,2026-08-21,output,4.4,698.28,https://docs.perplexity.ai/docs/agent-api/models
+GLM-5.2,2026-08-21,cached_input,0.14,22.218,https://docs.perplexity.ai/docs/agent-api/models
+DeepSeek V4 Flash,2026-08-21,input,0.13,20.631,https://docs.perplexity.ai/docs/agent-api/models
+DeepSeek V4 Flash,2026-08-21,output,0.26,41.262,https://docs.perplexity.ai/docs/agent-api/models
+DeepSeek V4 Flash,2026-08-21,cached_input,0.028,4.4436,https://docs.perplexity.ai/docs/agent-api/models
+Kimi K3,2026-08-21,input,3,476.09999999999997,https://docs.perplexity.ai/docs/agent-api/models
+Kimi K3,2026-08-21,output,15,2380.5,https://docs.perplexity.ai/docs/agent-api/models
+Kimi K3,2026-08-21,cached_input,0.3,47.60999999999999,https://docs.perplexity.ai/docs/agent-api/models
+Gemini 3.1 Flash-Lite,2026-08-21,input,0.25,39.675,https://ai.google.dev/gemini-api/docs/pricing#gemini-3.1-flash-lite-image
+Gemini 3.1 Flash-Lite,2026-08-21,output,1.5,238.04999999999998,https://ai.google.dev/gemini-api/docs/pricing#gemini-3.1-flash-lite-image
+Claude Opus 5,2026-08-21,input,5,793.5,https://openrouter.ai/anthropic/claude-opus-5
+Claude Opus 5,2026-08-21,output,25,3967.4999999999995,https://openrouter.ai/anthropic/claude-opus-5
+Claude Opus 5,2026-08-21,cached_input,0.5,79.35,https://openrouter.ai/anthropic/claude-opus-5
+DeepSeek V4 Pro,2026-08-21,input,1.32,209.484,https://openrouter.ai/deepseek/deepseek-v4-pro
+DeepSeek V4 Pro,2026-08-21,output,3.9600000000000004,628.452,https://openrouter.ai/deepseek/deepseek-v4-pro
+DeepSeek V4 Pro,2026-08-21,input,1.32,209.484,https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+DeepSeek V4 Pro,2026-08-21,output,3.9600000000000004,628.452,https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+Gemini 3.1 Flash-Lite,2026-08-21,input,0.25,39.675,https://cloud.google.com/vertex-ai/generative-ai/pricing#gemini-models
+Gemini 3.1 Flash-Lite,2026-08-21,output,1.5,238.04999999999998,https://cloud.google.com/vertex-ai/generative-ai/pricing#gemini-models
+GLM-5.2,2026-08-21,input,1.4,222.17999999999998,https://docs.mistral.ai/models/zai-glm-5-2
+GLM-5.2,2026-08-21,output,4.4,698.28,https://docs.mistral.ai/models/zai-glm-5-2
+GLM-5.2,2026-08-21,cached_input,0.14,22.218,https://docs.mistral.ai/models/zai-glm-5-2
