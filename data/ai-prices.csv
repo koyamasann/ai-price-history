@@ -127231,3 +127231,18 @@ Gemini 3.1 Flash-Lite,2026-08-21,output,1.5,238.04999999999998,https://cloud.goo
 GLM-5.2,2026-08-21,input,1.4,222.17999999999998,https://docs.mistral.ai/models/zai-glm-5-2
 GLM-5.2,2026-08-21,output,4.4,698.28,https://docs.mistral.ai/models/zai-glm-5-2
 GLM-5.2,2026-08-21,cached_input,0.14,22.218,https://docs.mistral.ai/models/zai-glm-5-2
+GPT-5.6 Sol,2026-08-23,input,4,634.8,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-23,output,20,3174,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-23,cached_input,0.39999999999999997,63.47999999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-23,input,2,317.4,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-23,output,12,1904.3999999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-23,cached_input,0.19999999999999998,31.739999999999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-23,input,5,793.5,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-23,output,30,4761,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-23,cached_input,0.5,79.35,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-23,input,0.19999999999999998,31.739999999999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-23,output,1.2,190.43999999999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-23,cached_input,0.02,3.174,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemini 3.1 Flash-Lite,2026-08-23,input,0.25,39.675,https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing
+Gemini 3.1 Flash-Lite,2026-08-23,output,1.5,238.04999999999998,https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing
+Gemini 3.1 Flash-Lite,2026-08-23,cached_input,0.024999999999999998,3.9674999999999994,https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing
