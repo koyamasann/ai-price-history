@@ -127246,3 +127246,29 @@ GPT-5.6 Luna,2026-08-23,cached_input,0.02,3.174,https://raw.githubusercontent.co
 Gemini 3.1 Flash-Lite,2026-08-23,input,0.25,39.675,https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing
 Gemini 3.1 Flash-Lite,2026-08-23,output,1.5,238.04999999999998,https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing
 Gemini 3.1 Flash-Lite,2026-08-23,cached_input,0.024999999999999998,3.9674999999999994,https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing
+Gemma 7B,2026-08-27,input,0.049999999999999996,7.969499999999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Gemma 7B,2026-08-27,output,0.08,12.751199999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 70B Online,2026-08-27,input,0,0,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 70B Online,2026-08-27,output,2.8,446.2919999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 34B Instruct,2026-08-27,input,0.35,55.78649999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 34B Instruct,2026-08-27,output,1.4,223.14599999999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 70B Instruct,2026-08-27,input,0.7,111.57299999999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+CodeLlama 70B Instruct,2026-08-27,output,2.8,446.2919999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 7B Online,2026-08-27,input,0,0,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 7B Online,2026-08-27,output,0.28,44.6292,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B Instruct,2026-08-27,input,0.07,11.1573,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Mistral 7B Instruct,2026-08-27,output,0.28,44.6292,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 7B Chat,2026-08-27,input,0.07,11.1573,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+PPLX 7B Chat,2026-08-27,output,0.28,44.6292,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-27,input,4,637.56,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-27,output,20,3187.8,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-27,cached_input,0.4,63.756,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-27,input,2,318.78,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-27,output,12,1912.68,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-27,cached_input,0.2,31.878,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-27,input,0.2,31.878,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-27,output,1.2,191.268,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-27,cached_input,0.02,3.1878,https://developers.openai.com/api/docs/pricing/
+Grok 4.6,2026-08-27,input,2,318.78,https://docs.x.ai/developers/models?cluster=us-west-1
+Grok 4.6,2026-08-27,output,6,956.34,https://docs.x.ai/developers/models?cluster=us-west-1
+Grok 4.6,2026-08-27,cached_input,0.5,79.695,https://docs.x.ai/developers/models?cluster=us-west-1
