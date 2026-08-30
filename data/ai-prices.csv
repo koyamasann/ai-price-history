@@ -127669,3 +127669,68 @@ Grok 4.20 Beta,2026-08-29,cached_input,0.19999999999999998,31.936,https://docs.x
 Gemini Pro Latest,2026-08-29,input,1.25,199.60000000000002,https://cloud.google.com/vertex-ai/generative-ai/pricing
 Gemini Pro Latest,2026-08-29,output,10,1596.8000000000002,https://cloud.google.com/vertex-ai/generative-ai/pricing
 Gemini Pro Latest,2026-08-29,cached_input,0.125,19.96,https://cloud.google.com/vertex-ai/generative-ai/pricing
+GPT-5.6 Sol,2026-08-30,input,4,638.72,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-30,output,20,3193.6000000000004,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-30,cached_input,0.39999999999999997,63.872,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-30,input,1.1,175.64800000000002,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-30,output,4.4,702.5920000000001,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o4 Mini,2026-08-30,cached_input,0.275,43.912000000000006,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Mini,2026-08-30,input,0.25,39.92,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Mini,2026-08-30,output,2,319.36,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Mini,2026-08-30,cached_input,0.024999999999999998,3.992,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3,2026-08-30,input,2,319.36,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3,2026-08-30,output,8,1277.44,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3,2026-08-30,cached_input,0.5,79.84,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1,2026-08-30,input,15,2395.2000000000003,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1,2026-08-30,output,60,9580.800000000001,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o1,2026-08-30,cached_input,7.5,1197.6000000000001,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3 Mini,2026-08-30,input,1.1,175.64800000000002,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3 Mini,2026-08-30,output,4.4,702.5920000000001,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+o3 Mini,2026-08-30,cached_input,0.55,87.82400000000001,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Nano,2026-08-30,input,0.049999999999999996,7.984,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Nano,2026-08-30,output,0.39999999999999997,63.872,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5 Nano,2026-08-30,cached_input,0.005,0.7984,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-30,input,1.75,279.44,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-30,output,14,2235.52,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-08-30,cached_input,0.175,27.944,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Codex,2026-08-30,input,1.75,279.44,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Codex,2026-08-30,output,14,2235.52,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.3 Codex,2026-08-30,cached_input,0.175,27.944,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Ministral 3 8B,2026-08-30,input,0.15,23.952,https://mistral.ai/pricing
+Ministral 3 8B,2026-08-30,output,0.15,23.952,https://mistral.ai/pricing
+Ministral 3 8B,2026-08-30,cached_input,0.015,2.3952,https://mistral.ai/pricing
+Codestral Embed,2026-08-30,input,0.15,23.952,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Codestral Embed,2026-08-30,cached_input,0.015,2.3952,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-30,input,4,638.72,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-30,output,20,3193.6,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Sol,2026-08-30,cached_input,0.4,63.872,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-30,input,2,319.36,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-30,output,12,1916.16,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Terra,2026-08-30,cached_input,0.2,31.936,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-30,input,0.2,31.936,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-30,output,1.2,191.616,https://developers.openai.com/api/docs/pricing/
+GPT-5.6 Luna,2026-08-30,cached_input,0.02,3.1936,https://developers.openai.com/api/docs/pricing/
+Claude Fable 5,2026-08-30,input,10,1596.8,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5,2026-08-30,output,50,7984,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5,2026-08-30,cached_input,1,159.68,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 5,2026-08-30,input,5,798.4,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 5,2026-08-30,output,25,3992,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 5,2026-08-30,cached_input,0.5,79.84,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-08-30,input,5,798.4,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-08-30,output,25,3992,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-08-30,cached_input,0.5,79.84,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-08-30,input,5,798.4,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-08-30,output,25,3992,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-08-30,cached_input,0.5,79.84,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 5,2026-08-30,input,2,319.36,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 5,2026-08-30,output,10,1596.8,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 5,2026-08-30,cached_input,0.2,31.936,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-08-30,input,3,479.04,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-08-30,output,15,2395.2,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-08-30,cached_input,0.3,47.904,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-08-30,input,3,479.04,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-08-30,output,15,2395.2,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-08-30,cached_input,0.3,47.904,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-08-30,input,1,159.68,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-08-30,output,5,798.4,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-08-30,cached_input,0.1,15.968,https://platform.claude.com/docs/en/about-claude/pricing
