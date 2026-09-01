@@ -127734,3 +127734,59 @@ Claude Sonnet 4.5,2026-08-30,cached_input,0.3,47.904,https://platform.claude.com
 Claude 4.5 Haiku,2026-08-30,input,1,159.68,https://platform.claude.com/docs/en/about-claude/pricing
 Claude 4.5 Haiku,2026-08-30,output,5,798.4,https://platform.claude.com/docs/en/about-claude/pricing
 Claude 4.5 Haiku,2026-08-30,cached_input,0.1,15.968,https://platform.claude.com/docs/en/about-claude/pricing
+GPT-5.6 Sol,2026-08-31,input,4,638.92,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-31,output,20,3194.6,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-08-31,cached_input,0.39999999999999997,63.89199999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-31,input,2,319.46,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-31,output,12,1916.7599999999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-08-31,cached_input,0.19999999999999998,31.945999999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-31,input,0.19999999999999998,31.945999999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-31,output,1.2,191.676,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-08-31,cached_input,0.02,3.1946,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-08-31,input,3,479.18999999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-08-31,output,15,2395.95,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-08-31,cached_input,0.3,47.919,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 5,2026-08-31,input,5,798.65,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Opus 5,2026-08-31,output,25,3993.2499999999995,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Opus 5,2026-08-31,cached_input,0.5,79.865,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 5,2026-08-31,input,2,319.46,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 5,2026-08-31,output,10,1597.3,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 5,2026-08-31,cached_input,0.19999999999999998,31.945999999999994,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Fable 5,2026-08-31,input,10,1597.3,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Fable 5,2026-08-31,output,50,7986.499999999999,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Fable 5,2026-08-31,cached_input,1,159.73,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 4.5,2026-08-31,input,3,479.18999999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-08-31,output,15,2395.95,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-08-31,cached_input,0.3,47.919,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-08-31,input,5,798.65,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-08-31,output,25,3993.2499999999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-08-31,cached_input,0.5,79.865,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-08-31,input,5,798.65,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-08-31,output,25,3993.2499999999995,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-08-31,cached_input,0.5,79.865,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-08-31,input,1,159.73,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-08-31,output,5,798.65,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-08-31,cached_input,0.09999999999999999,15.972999999999997,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Grok 4.20 Beta Non-Reasoning,2026-08-31,input,1.25,199.6625,https://docs.x.ai/docs/models
+Grok 4.20 Beta Non-Reasoning,2026-08-31,output,2.5,399.325,https://docs.x.ai/docs/models
+Grok 4.20 Beta Non-Reasoning,2026-08-31,cached_input,0.19999999999999998,31.945999999999994,https://docs.x.ai/docs/models
+Grok 4.20 Beta,2026-08-31,input,1.25,199.6625,https://docs.x.ai/docs/models
+Grok 4.20 Beta,2026-08-31,output,2.5,399.325,https://docs.x.ai/docs/models
+Grok 4.20 Beta,2026-08-31,cached_input,0.19999999999999998,31.945999999999994,https://docs.x.ai/docs/models
+Grok 4.20 Multi-Agent Beta,2026-08-31,input,1.25,199.6625,https://docs.x.ai/docs/models
+Grok 4.20 Multi-Agent Beta,2026-08-31,output,2.5,399.325,https://docs.x.ai/docs/models
+Grok 4.20 Multi-Agent Beta,2026-08-31,cached_input,0.19999999999999998,31.945999999999994,https://docs.x.ai/docs/models
+Qwen 3 Coder Next,2026-08-31,input,0.6,95.838,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-31,output,1.44,230.01119999999997,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-31,input,0.6,95.838,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Thinking,2026-08-31,output,2.5,399.325,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Thinking,2026-08-31,input,0.73,116.60289999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Thinking,2026-08-31,output,3.03,483.98189999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder Next,2026-08-31,input,0.78,124.5894,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-31,output,1.8599999999999999,297.09779999999995,https://aws.amazon.com/bedrock/pricing/
+Kimi K2 Thinking,2026-08-31,input,0.71,113.40829999999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Kimi K2 Thinking,2026-08-31,output,2.94,469.60619999999994,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Qwen 3 Coder Next,2026-08-31,input,0.5,79.865,https://aws.amazon.com/bedrock/pricing/
+Qwen 3 Coder Next,2026-08-31,output,1.2,191.676,https://aws.amazon.com/bedrock/pricing/
+GLM 5,2026-08-31,input,1,159.73,https://aws.amazon.com/bedrock/pricing/
+GLM 5,2026-08-31,output,3.1999999999999997,511.1359999999999,https://aws.amazon.com/bedrock/pricing/
