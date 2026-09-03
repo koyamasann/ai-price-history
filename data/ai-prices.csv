@@ -127860,3 +127860,50 @@ GPT-5.6 Sol,2026-09-02,cached_input,0.39999999999999997,64.0455212,https://raw.g
 Claude Fable 5,2026-09-02,input,10,1601.1380299999998,https://docs.anthropic.com/en/docs/about-claude/models/overview
 Claude Fable 5,2026-09-02,output,50,8005.690149999999,https://docs.anthropic.com/en/docs/about-claude/models/overview
 Claude Fable 5,2026-09-02,cached_input,1,160.113803,https://docs.anthropic.com/en/docs/about-claude/models/overview
+GPT-5.6 Sol,2026-09-03,input,4,624.04,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Sol,2026-09-03,output,20,3120.2,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Sol,2026-09-03,cached_input,0.4,62.404,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Terra,2026-09-03,input,2,312.02,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Terra,2026-09-03,output,12,1872.12,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Terra,2026-09-03,cached_input,0.2,31.202,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Luna,2026-09-03,input,0.2,31.202,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Luna,2026-09-03,output,1.2,187.212,https://developers.openai.com/api/docs/pricing
+GPT-5.6 Luna,2026-09-03,cached_input,0.02,3.1202,https://developers.openai.com/api/docs/pricing
+Claude Fable 5,2026-09-03,input,10,1560.1,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5,2026-09-03,output,50,7800.5,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5,2026-09-03,cached_input,1,156.01,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 5,2026-09-03,input,5,780.05,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 5,2026-09-03,output,25,3900.25,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 5,2026-09-03,cached_input,0.5,78.005,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-09-03,input,5,780.05,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-09-03,output,25,3900.25,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.6,2026-09-03,cached_input,0.5,78.005,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-09-03,input,5,780.05,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-09-03,output,25,3900.25,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Opus 4.5,2026-09-03,cached_input,0.5,78.005,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 5,2026-09-03,input,2,312.02,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 5,2026-09-03,output,10,1560.1,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 5,2026-09-03,cached_input,0.2,31.202,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-09-03,input,3,468.03,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-09-03,output,15,2340.15,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.6,2026-09-03,cached_input,0.3,46.803,https://platform.claude.com/docs/en/about-claude/pricing
+Grok 4.20 Multi-Agent (0309),2026-09-03,input,1.25,195.0125,https://docs.x.ai/developers/models?cluster=us-west-1
+Grok 4.20 Multi-Agent (0309),2026-09-03,output,2.5,390.025,https://docs.x.ai/developers/models?cluster=us-west-1
+Grok 4.20 Multi-Agent (0309),2026-09-03,cached_input,0.2,31.202,https://docs.x.ai/developers/models?cluster=us-west-1
+Qwen 3 Max,2026-09-03,input,0.359,56.00759,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Max,2026-09-03,output,1.434,223.71834,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 Plus,2026-09-03,input,0.115,17.94115,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 Plus,2026-09-03,output,0.688,107.33488,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Plus,2026-09-03,input,0.115,17.94115,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Plus,2026-09-03,output,1.147,178.94347,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Flash,2026-09-03,input,0.022,3.43222,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen Flash,2026-09-03,output,0.216,33.69816,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Plus,2026-09-03,input,0.574,89.54974,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Plus,2026-09-03,output,2.294,357.88694,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Flash,2026-09-03,input,0.144,22.46544,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3 Coder Flash,2026-09-03,output,0.574,89.54974,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 397B A17B,2026-09-03,input,0.172,26.83372,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Qwen 3.5 397B A17B,2026-09-03,output,1.032,161.00232,https://www.alibabacloud.com/help/en/model-studio/model-pricing
+Claude Sonnet 4.5,2026-09-03,input,3,468.03,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-09-03,output,15,2340.15,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Sonnet 4.5,2026-09-03,cached_input,0.3,46.803,https://platform.claude.com/docs/en/about-claude/pricing
