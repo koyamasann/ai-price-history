@@ -127907,3 +127907,87 @@ Qwen 3.5 397B A17B,2026-09-03,output,1.032,161.00232,https://www.alibabacloud.co
 Claude Sonnet 4.5,2026-09-03,input,3,468.03,https://platform.claude.com/docs/en/about-claude/pricing
 Claude Sonnet 4.5,2026-09-03,output,15,2340.15,https://platform.claude.com/docs/en/about-claude/pricing
 Claude Sonnet 4.5,2026-09-03,cached_input,0.3,46.803,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5.1,2026-09-04,input,10,1560.1,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5.1,2026-09-04,output,50,7800.5,https://platform.claude.com/docs/en/about-claude/pricing
+Claude Fable 5.1,2026-09-04,cached_input,0.25,39.0025,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-09-04,input,1,156.01,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-09-04,output,5,780.05,https://platform.claude.com/docs/en/about-claude/pricing
+Claude 4.5 Haiku,2026-09-04,cached_input,0.1,15.601,https://platform.claude.com/docs/en/about-claude/pricing
+GPT-5.6 Luna,2026-09-04,input,0.19999999999999998,31.249999999999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-09-04,output,1.2,187.5,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Luna,2026-09-04,cached_input,0.02,3.125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-09-04,input,4,625,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-09-04,output,20,3125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Sol,2026-09-04,cached_input,0.39999999999999997,62.49999999999999,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-09-04,input,2,312.5,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-09-04,output,12,1875,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.6 Terra,2026-09-04,cached_input,0.19999999999999998,31.249999999999996,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-09-04,input,3,468.75,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-09-04,output,15,2343.75,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.5,2026-09-04,cached_input,0.3,46.875,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 5,2026-09-04,input,2,312.5,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 5,2026-09-04,output,10,1562.5,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 5,2026-09-04,cached_input,0.19999999999999998,31.249999999999996,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Fable 5,2026-09-04,input,10,1562.5,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Fable 5,2026-09-04,output,50,7812.5,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Fable 5,2026-09-04,cached_input,1,156.25,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Opus 4.5,2026-09-04,input,5,781.25,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-09-04,output,25,3906.25,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.5,2026-09-04,cached_input,0.5,78.125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-09-04,input,1,156.25,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-09-04,output,5,781.25,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude 4.5 Haiku,2026-09-04,cached_input,0.09999999999999999,15.624999999999998,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 5,2026-09-04,input,5,781.25,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Opus 5,2026-09-04,output,25,3906.25,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Opus 5,2026-09-04,cached_input,0.5,78.125,https://docs.anthropic.com/en/docs/about-claude/models/overview
+Claude Sonnet 4.6,2026-09-04,input,3,468.75,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-09-04,output,15,2343.75,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Sonnet 4.6,2026-09-04,cached_input,0.3,46.875,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-09-04,input,5,781.25,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-09-04,output,25,3906.25,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+Claude Opus 4.6,2026-09-04,cached_input,0.5,78.125,https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+GPT-5.2 Codex,2026-09-04,input,1.75,273.4375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Codex,2026-09-04,output,14,2187.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Codex,2026-09-04,cached_input,0.175,27.34375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-09-04,input,1.75,273.4375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-09-04,output,14,2187.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2,2026-09-04,cached_input,0.175,27.34375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-09-04,input,1.75,273.4375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-09-04,output,14,2187.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.2 Chat Latest,2026-09-04,cached_input,0.175,27.34375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-09-04,input,1.25,195.3125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-09-04,output,10,1562.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1,2026-09-04,cached_input,0.125,19.53125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-09-04,input,1.25,195.3125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-09-04,output,10,1562.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Chat Latest,2026-09-04,cached_input,0.125,19.53125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-09-04,input,1.25,195.3125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-09-04,output,10,1562.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex,2026-09-04,cached_input,0.125,19.53125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-09-04,input,1.25,195.3125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-09-04,output,10,1562.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Max,2026-09-04,cached_input,0.125,19.53125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-09-04,input,0.25,39.0625,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-09-04,output,2,312.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5.1 Codex Mini,2026-09-04,cached_input,0.025,3.90625,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5,2026-09-04,input,1.25,195.3125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5,2026-09-04,output,10,1562.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5,2026-09-04,cached_input,0.125,19.53125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-09-04,input,1.25,195.3125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-09-04,output,10,1562.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Codex,2026-09-04,cached_input,0.125,19.53125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-09-04,input,0.25,39.0625,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-09-04,output,2,312.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Mini,2026-09-04,cached_input,0.025,3.90625,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-09-04,input,0.05,7.8125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-09-04,output,0.4,62.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+GPT-5 Nano,2026-09-04,cached_input,0.005,0.78125,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-09-04,input,1.1,171.875,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-09-04,output,4.4,687.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o4 Mini,2026-09-04,cached_input,0.275,42.96875,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-09-04,input,1.1,171.875,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-09-04,output,4.4,687.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o3 Mini,2026-09-04,cached_input,0.55,85.9375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-09-04,input,1.1,171.875,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-09-04,output,4.4,687.5,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
+o1 Mini,2026-09-04,cached_input,0.55,85.9375,https://azure.microsoft.com/en-us/pricing/details/azure-openai/
